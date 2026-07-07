@@ -1,0 +1,121 @@
+country_id,tournament_id,tournament_name,tournament_url,tournament_stage_id,country_name
+198,KKay4EE8,Premier League,/football/england/premier-league/,OEEq9Yvp,England
+198,QJR8o6bs,Championship,/football/england/championship/,WvIi7C9d,England
+176,UkksTK1s,LaLiga,/football/spain/laliga/,vcm2MhGk,Spain
+176,bJ6JSbWg,LaLiga2,/football/spain/laliga2/,zPtBKWp2,Spain
+98,04lKZTBr,Serie A,/football/italy/serie-a/,6PWwAsA7,Italy
+98,zRxkZ7te,Serie B,/football/italy/serie-b/,jwYYXp2E,Italy
+81,QwzghtID,Bundesliga,/football/germany/bundesliga/,8UYeqfiD,Germany
+81,QRN71hyK,2. Bundesliga,/football/germany/2-bundesliga/,McQM1y7s,Germany
+77,hnFBS5hK,Ligue 1,/football/france/ligue-1/,j9QeTLPP,France
+77,CWerNqGs,Ligue 2,/football/france/ligue-2/,0STrMwIa,France
+39,pv7V3RRE,Serie A Betano,/football/brazil/serie-a-betano/,hdLUdQGi,Brazil
+39,tYGti5dR,Serie B Superbet,/football/brazil/serie-b-superbet/,lOEwe4o4,Brazil
+22,j1MnZ14E,Liga Profesional,/football/argentina/liga-profesional/,KYiWfJVg,Argentina
+22,n1f5Iax3,Primera Nacional,/football/argentina/primera-nacional/,CIwD2G5N,Argentina
+155,U1ymuRr3,Liga Portugal,/football/portugal/liga-portugal/,IgF19YCc,Portugal
+155,jHPew5DF,Liga Portugal 2,/football/portugal/liga-portugal-2/,j7D97CsA,Portugal
+139,dSXX7eTk,Eredivisie,/football/netherlands/eredivisie/,dWKtjvdd,Netherlands
+139,UTJfFoH8,Eerste Divisie,/football/netherlands/eerste-divisie/,lfs1AamS,Netherlands
+32,Y9pCz2uK,Jupiler Pro League,/football/belgium/jupiler-pro-league/,xdmwTjnQ,Belgium
+32,fPrcWu3s,Challenger Pro League,/football/belgium/challenger-pro-league/,4lti9jCi,Belgium
+158,n7RPVIfJ,Premier League,/football/russia/premier-league/,0UC6tdRa,Russia
+158,dQxteMnQ,FNL,/football/russia/fnl/,CAqspVXi,Russia
+195,tEn9KxPE,Premier League,/football/ukraine/premier-league/,ldxRUZwe,Ukraine
+195,6RAjkR9N,Persha Liga,/football/ukraine/persha-liga/,IuCL2xin,Ukraine
+191,Kbv7JCLO,Super Lig,/football/turkey/super-lig/,EVZfW0bc,Turkey
+191,hlpPwnO8,1. Lig,/football/turkey/1-lig/,jgd2GKdJ,Turkey
+154,AgtpmqHN,Ekstraklasa,/football/poland/ekstraklasa/,rgKvyuf4,Poland
+154,AsWv5414,Division 1,/football/poland/division-1/,ATgMQzHj,Poland
+157,8SdcKFb4,Superliga,/football/romania/superliga/,02YI7tIj,Romania
+157,b5JZJgTG,Liga 2,/football/romania/liga-2/,KUR2JJ1d,Romania
+62,jmWZzX2n,Chance Liga,/football/czech-republic/chance-liga/,tGIvI38l,Czech Republic
+62,pnPrZAXb,ChNL,/football/czech-republic/chnl/,AwXWHfE5,Czech Republic
+83,nkWI0kH7,Super League,/football/greece/super-league/,YqOkq45l,Greece
+83,6FxEOh9E,Super League 2,/football/greece/super-league-2/,KML13PdK,Greece
+25,rLV7T1Fd,Bundesliga,/football/austria/bundesliga/,rHlgXND5,Austria
+25,r9JMxEY2,2. Liga,/football/austria/2-liga/,YVUSmqbn,Austria
+182,fJESWFSE,Super League,/football/switzerland/super-league/,AXcskDUh,Switzerland
+182,xdtG3JBE,Challenge League,/football/switzerland/challenge-league/,pSmAL67l,Switzerland
+59,jaUtMDOH,HNL,/football/croatia/hnl/,nFfMOClK,Croatia
+59,OCSlKigU,Prva NL,/football/croatia/prva-nl/,dSxCCntJ,Croatia
+167,fHE8QBN5,Mozzart Bet Super Liga,/football/serbia/mozzart-bet-super-liga/,WCsa8Gn4,Serbia
+167,fJ78deff,Mozzart Bet Prva Liga,/football/serbia/mozzart-bet-prva-liga/,d0CldIo1,Serbia
+199,4Gc5YzOh,Premiership,/football/scotland/premiership/,r9r0HS9r,Scotland
+199,tnEUIkbf,Championship,/football/scotland/championship/,xtu5Z14n,Scotland
+181,Qwn11AAt,Allsvenskan,/football/sweden/allsvenskan/,ltrtRhko,Sweden
+181,CUbso4Nc,Superettan,/football/sweden/superettan/,Mmys27Ja,Sweden
+145,MFrsBBTH,Eliteserien,/football/norway/eliteserien/,WhRleNrH,Norway
+145,rVWk9kbU,OBOS-ligaen,/football/norway/obos-ligaen/,rHbMeifc,Norway
+63,GtQIjw86,Superliga,/football/denmark/superliga/,d4toV4hf,Denmark
+63,O6TQlHxJ,1st Division,/football/denmark/1st-division/,E9nprrx0,Denmark
+76,jg5JgLZo,Veikkausliiga,/football/finland/veikkausliiga/,h6IND07k,Finland
+76,C8gSia4b,Ykkonen,/football/finland/ykkonen/,jsQYXLbL,Finland
+91,jXL7KZV6,NB I.,/football/hungary/nb-i/,MgCTUmzK,Hungary
+91,OpKFID0J,NB II.,/football/hungary/nb-ii/,hx3aPRcs,Hungary
+207,6k1fpcHa,Cymru Premier,/football/wales/cymru-premier/,jeNVO22k,Wales
+207,ldm3r5Uq,Cymru South,/football/wales/cymru-south/,8K5k29jB,Wales
+96,zXNjMd4m,Premier Division,/football/ireland/premier-division/,dKrDn2kS,Ireland
+96,40uTLzZa,Division 1,/football/ireland/division-1/,G4PqstDk,Ireland
+128,xf3GsU0B,Liga MX,/football/mexico/liga-mx/,rLQEVQTq,Mexico
+128,b9iPu8VN,Liga de Expansion MX,/football/mexico/liga-de-expansion-mx/,0QWDr4Dk,Mexico
+200,tUfctlzI,MLS,/football/usa/mls/,bgQzSI5N,USA
+200,QR7aRI3d,USL Championship,/football/usa/usl-championship/,Ykw3nDdd,USA
+53,tYhlmBUI,Primera A,/football/colombia/primera-a/,I7rbp1up,Colombia
+53,Cd9rBEMP,Primera B,/football/colombia/primera-b/,ABbJaDVs,Colombia
+51,dtweQvIP,Liga de Primera,/football/chile/liga-de-primera/,f1w5g1qT,Chile
+51,r7IzAIum,Liga de Ascenso,/football/chile/liga-de-ascenso/,ABpVBrac,Chile
+201,dYEz5au9,Liga AUF Uruguaya,/football/uruguay/liga-auf-uruguaya/,fexyMpvQ,Uruguay
+201,fVPc4wAL,Segunda Division,/football/uruguay/segunda-division/,6BDmr10n,Uruguay
+151,QHlx73M9,Copa de Primera,/football/paraguay/copa-de-primera/,EBFnzgo3,Paraguay
+151,pSKBbLEq,Division Intermedia,/football/paraguay/division-intermedia/,xd5ER1qf,Paraguay
+152,CSDqKt6F,Liga 1,/football/peru/liga-1/,x0DPoNzQ,Peru
+152,vgU97KzS,Liga 2,/football/peru/liga-2/,tn3TzcSO,Peru
+68,trd6vSd3,Liga Pro,/football/ecuador/liga-pro/,x2nVXCWr,Ecuador
+68,G4pyv6RF,Serie B,/football/ecuador/serie-b/,OMhljChR,Ecuador
+205,QyHHDLce,Liga FUTVE,/football/venezuela/lista-futve/,IssbRpyK,Venezuela
+205,M3AQBaS7,Liga FUTVE 2,/football/venezuela/lista-futve-2/,MNmgItb6,Venezuela
+100,lv6akwBC,J1 League,/football/japan/j1-league/,6msfOkrp,Japan
+100,tC990TaT,J2 League,/football/japan/j2-league/,p4cK42ir,Japan
+106,v1KxQiuR,K League 1,/football/south-korea/k-league-1/,6FsHJk9l,South Korea
+106,C873JV2l,K League 2,/football/south-korea/k-league-2/,UgCKwB0K,South Korea
+52,p4AngrWQ,Super League,/football/china/super-league/,6qZmcKtB,China
+52,8YVTxMgl,League One,/football/china/league-one/,2BSdebBN,China
+165,0n9bj0yh,Saudi Professional League,/football/saudi-arabia/saudi-professional-league/,K4QfYeJ8,Saudi Arabia
+165,M1c7lv64,Division 1,/football/saudi-arabia/division-1/,tKE3WZmL,Saudi Arabia
+156,WKjyxH6T,QSL,/football/qatar/qsl/,fezaExal,Qatar
+156,tbxTXfUj,Division 2,/football/qatar/division-2/,jNT7CGT0,Qatar
+196,2cGPwJ4E,UAE League,/football/united-arab-emirates/uae-league/,GSgWHoHL,United Arab Emirates
+196,hEPVPkhI,Division 1,/football/united-arab-emirates/division-1/,0fbgaC9j,United Arab Emirates
+24,KA2u2NXi,A-League,/football/australia/a-league/,ADPCmMSi,Australia
+93,dYGXUUVp,ISL,/football/india/isl/,lrk9x39U,India
+93,hpSRhYNi,I-League,/football/india/i-league/,EPIRfpPb,India
+143,2RTScvMM,NPFL,/football/nigeria/npfl/,CYJvtcxK,Nigeria
+143,bcFbhIqp,NNL,/football/nigeria/nnl/,82xRYEUg,Nigeria
+69,8djnQlDc,Premier League,/football/egypt/premier-league/,rZZ01nd3,Egypt
+69,GMgfOSsA,Division 2 A,/football/egypt/division-2-a/,x6GTPrlB,Egypt
+134,4nKEHr4L,Botola Pro,/football/morocco/botola-pro/,UoYUwR9U,Morocco
+134,02N1A0de,Botola 2,/football/morocco/botola-2/,0vGbgnfB,Morocco
+175,zH3Wlg4k,Betway Premiership,/football/south-africa/betway-premiership/,486iDsd4,South Africa
+175,dWiumXY1,Motsepe Foundation Championship,/football/south-africa/motsepe-foundation-championship/,4hO8BLQG,South Africa
+17,QLlHEHqJ,Abissnet Superiore,/football/albania/abissnet-superiore/,8ECkLGL5,Albania
+18,WCbTWTZG,Ligue 1,/football/algeria/ligue-1/,Iylbph6E,Algeria
+19,vPA526YF,Primera Divisio,/football/andorra/primera-divisio/,O89LE3B5,Andorra
+20,rg9z4EC4,Girabola,/football/angola/girabola/,hYzpjRb3,Angola
+21,l4XqdAZj,ABFA Premier League,/football/antigua-barbuda/abfa-premier-league/,tALXrzcf,Antigua & Barbuda
+23,0IeoV2YH,Premier League,/football/armenia/premier-league/,SpCaRE0E,Armenia
+26,dScZTJ6k,Premier League,/football/azerbaijan/premier-league/,xUUBfNMH,Azerbaijan
+22,j1MnZ14E,Liga Profesional,/football/argentina/liga-profesional/,KYiWfJVg,Argentina
+36,nJqEpFyH,Division Profesional,/football/bolivia/division-profesional/,lIqDUTz3,Bolivia
+38,lSeytOZ7,Premier League,/football/botswana/premier-league/,MX4zZMOp,Botswana
+41,GO0K57WO,efbet League,/football/bulgaria/efbet-league/,ID1TwQHr,Bulgaria
+42,Shy5ypVN,Premier League,/football/burkina-faso/premier-league/,IgTYK5Cd,Burkina Faso
+45,ChRyKxrl,CPL,/football/cambodia/cpl/,MPKtZ42j,Cambodia
+46,zuOlxMNb,Elite One,/football/cameroon/elite-one/,dA17i1LU,Cameroon
+47,nXYZZwNN,Canadian Premier League,/football/canada/canadian-premier-league/,Ms6Fe4w3,Canada
+43,0z5kuzAm,Premier League,/football/faroe-islands/premier-league/,bJ1yAzet,Faroe Islands
+50,Kfr8Kqek,Premiere Division,/football/chad/premiere-division/,pU6ELQTg,Chad
+57,W2eU6mTH,Primera Division,/football/costa-rica/primera-division/,WIEkYhg4,Costa Rica
+43,WKCyjjyG,National League,/football/myanmar/national-league/,UDpEapcg,Myanmar
+231,0z5kuzAm,Premier League,/football/faroe-islands/premier-league/,bJ1yAzet,Faroe Islands
+58,6o5VFFC7,Ligue 1,/football/ivory-coast/ligue-1/,K00NJ7n9,Ivory Coast

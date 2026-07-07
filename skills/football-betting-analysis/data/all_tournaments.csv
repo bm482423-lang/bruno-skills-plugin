@@ -1,0 +1,1084 @@
+country_id,tournament_id,tournament_name,tournament_url,tournament_stage_id,tournament_template_id,country_name
+176,UkksTK1s,LaLiga,/football/spain/laliga/,vcm2MhGk,QVmLl54o,Spain
+176,bJ6JSbWg,LaLiga2,/football/spain/laliga2/,zPtBKWp2,vZiPmPJi,Spain
+176,dWgNupcf,Primera RFEF - Group 1,/football/spain/primera-rfef-group-1/,W6WzKfZ2,Q1n2ONwf,Spain
+176,rihiuOR6,Primera RFEF - Group 2,/football/spain/primera-rfef-group-2/,Sv9hGCYR,8Qy7Nsg0,Spain
+176,xjo0w2dJ,Primera RFEF - Play Offs,/football/spain/primera-rfef-play-offs/,bNaOAjdk,j19c2DN8,Spain
+176,2VP4ychA,Primera RFEF - Promotion Play Offs,/football/spain/primera-rfef-promotion-play-offs/,SpWBS710,AaHEFP1H,Spain
+176,4vlCg1BC,Segunda RFEF - Group 1,/football/spain/segunda-rfef-group-1/,UqyaEP2s,04200qZc,Spain
+176,SntUtutP,Segunda RFEF - Group 2,/football/spain/segunda-rfef-group-2/,QXgmt21t,ve14a3l4,Spain
+176,CbMpoiht,Segunda RFEF - Group 3,/football/spain/segunda-rfef-group-3/,bV9CxK05,dbCBmN3A,Spain
+176,pCKhqVMh,Segunda RFEF - Group 4,/football/spain/segunda-rfef-group-4/,hS3YkJFb,v7ZNnsJG,Spain
+176,OjXVr9i5,Segunda RFEF - Group 5,/football/spain/segunda-rfef-group-5/,vgBO4IUi,E5VZ3DwB,Spain
+176,Ig2NG6y8,Segunda RFEF - Promotion Play Offs,/football/spain/segunda-rfef-promotion-play-offs/,SEs6tRVa,8d9trHU2,Spain
+176,C4ktPxAK,Segunda RFEF - Play Out,/football/spain/segunda-rfef-play-out/,MysAuoo6,bwbQIDxd,Spain
+176,fZmDdQ5N,Tercera RFEF - Group 1,/football/spain/tercera-rfef-group-1/,MBcSgqS7,Cnf2k8It,Spain
+176,UBfdUFuR,Tercera RFEF - Group 2,/football/spain/tercera-rfef-group-2/,b1jYrytS,2ymFn62a,Spain
+176,I1fyPg3l,Tercera RFEF - Group 3,/football/spain/tercera-rfef-group-3/,jaVCygY1,ppARoQH5,Spain
+176,4Mh5OXX0,Tercera RFEF - Group 4,/football/spain/tercera-rfef-group-4/,M332dzeL,W44inpXB,Spain
+176,0lnEMB2D,Tercera RFEF - Group 5,/football/spain/tercera-rfef-group-5/,IJ6kkhme,Ae3eo4nI,Spain
+176,d0c8pFfK,Tercera RFEF - Group 6,/football/spain/tercera-rfef-group-6/,8UAhBZ9E,hKh0pO1O,Spain
+176,GCfsUhIs,Tercera RFEF - Group 7,/football/spain/tercera-rfef-group-7/,EDfsi5Oa,6Nd4qrHU,Spain
+176,SfMcSWnf,Tercera RFEF - Group 8,/football/spain/tercera-rfef-group-8/,hvOkmNNO,n1dI4Rnt,Spain
+176,lAA6QAH6,Tercera RFEF - Group 9,/football/spain/tercera-rfef-group-9/,8zGG54wg,QieM3o2n,Spain
+176,djv8Eoj4,Tercera RFEF - Group 10,/football/spain/tercera-rfef-group-10/,0WyEUP3K,MNpm45Hh,Spain
+176,6uvBBPKG,Tercera RFEF - Group 11,/football/spain/tercera-rfef-group-11/,fgDmMsdf,0Eqi3PWb,Spain
+176,xS0rgH4k,Tercera RFEF - Group 12,/football/spain/tercera-rfef-group-12/,OY44IaeJ,fyqe2qn5,Spain
+176,ClkDheZ1,Tercera RFEF - Group 13,/football/spain/tercera-rfef-group-13/,vVdVzsBm,M1gg031B,Spain
+176,4SgGExdL,Tercera RFEF - Group 14,/football/spain/tercera-rfef-group-14/,4MsKM2Di,4QrbaNGH,Spain
+176,dEbGAGJr,Tercera RFEF - Group 15,/football/spain/tercera-rfef-group-15/,zicqJKCG,rHs2bsWN,Spain
+176,hthP8fle,Tercera RFEF - Group 16,/football/spain/tercera-rfef-group-16/,IF8JXJR9,josSb1oU,Spain
+176,QgjX6YI7,Tercera RFEF - Group 17,/football/spain/tercera-rfef-group-17/,EVB6QyKq,hfTgfLgo,Spain
+176,OEilWyBE,Tercera RFEF - Group 18,/football/spain/tercera-rfef-group-18/,Q3z9nJt3,0pIr3Dco,Spain
+176,K4BdkgWt,Tercera RFEF - Promotion Play Offs,/football/spain/tercera-rfef-promotion-play-offs/,GCVf6saB,KCcAmnmg,Spain
+176,pIDAYtvK,Copa del Rey,/football/spain/copa-del-rey/,8AQUv1WG,lnb8EJRp,Spain
+176,GW45mX0g,Copa Federacion,/football/spain/copa-federacion/,UF9fNfi0,0vEaiVJU,Spain
+176,OvNQ0Uyn,Super Cup,/football/spain/super-cup/,h8sUt6r2,YTYRo1YM,Spain
+176,COOwHoS9,Kings League - Spain,/football/spain/kings-league-spain/,6FgFZgsA,QXh69gEb,Spain
+176,QaFYaEr9,Liga F Women,/football/spain/liga-f-women/,IFb3JQNM,OG5aZV0d,Spain
+176,Wbs6s6Ss,Primera Federacion Women,/football/spain/primera-federacion-women/,2mzzE4op,ERlL7EZK,Spain
+176,EgcGAwnD,Copa de la Reina Women,/football/spain/copa-de-la-reina-women/,8Q8DtN14,AwN0lsm8,Spain
+176,K6GZb86b,Super Cup Women,/football/spain/super-cup-women/,CYmP49z9,6o9Kmz5C,Spain
+17,QLlHEHqJ,Abissnet Superiore,/football/albania/abissnet-superiore/,8ECkLGL5,nwPDBpVc,Albania
+17,hpUMJjjB,Kategoria e Parë,/football/albania/kategoria-e-pare/,C46PTuGG,OQQL95Wn,Albania
+17,pr91C8ro,Albanian Cup,/football/albania/albanian-cup/,lU1bp10c,MyD3Jn1A,Albania
+17,IeB2XYTB,Super Cup,/football/albania/super-cup/,CfkETwQi,4pzGI6GG,Albania
+18,WCbTWTZG,Ligue 1,/football/algeria/ligue-1/,Iylbph6E,zLQAGOBK,Algeria
+18,6ZnbW74T,Ligue 2,/football/algeria/ligue-2/,E3s7rWzR,MJijSTCe,Algeria
+18,hYihlTlA,Algeria Cup,/football/algeria/algeria-cup/,zofuo5sJ,6mNsUS0p,Algeria
+18,t4jCVTl1,Super Cup,/football/algeria/super-cup/,KShqxl1D,OlBtnw1A,Algeria
+18,8ATJQT5i,U21 League,/football/algeria/u21-league/,ph5wQePG,OQFdPlNR,Algeria
+19,vPA526YF,Primera Divisió,/football/andorra/primera-divisio/,O89LE3B5,E7DwJSo4,Andorra
+19,U1Xs2p3S,Andorra Cup,/football/andorra/andorra-cup/,QZU1fZPj,SKvdUpoT,Andorra
+19,fRVVNRkA,Super Cup,/football/andorra/super-cup/,6o0CtH9c,n9PKHQVM,Andorra
+20,rg9z4EC4,Girabola,/football/angola/girabola/,hYzpjRb3,YynSfzO1,Angola
+20,Kjm4iDlI,Super Cup,/football/angola/super-cup/,t4lTrOft,lGLitwgU,Angola
+21,l4XqdAZj,ABFA Premier League,/football/antigua-barbuda/abfa-premier-league/,tALXrzcf,jNIGMExd,Antigua & Barbuda
+23,0IeoV2YH,Premier League,/football/armenia/premier-league/,SpCaRE0E,I5wWW4UM,Armenia
+23,MXqfTt3U,First League,/football/armenia/first-league/,6mw532EO,88zrouK3,Armenia
+23,bN6Kmpln,Armenian Cup,/football/armenia/armenian-cup/,lWWNN5at,p0RNP4gp,Armenia
+23,2cjKowSH,Super Cup,/football/armenia/super-cup/,K6RYnYlK,OjQROO8j,Armenia
+229,6sBEqtIN,Division di Honor,/football/aruba/division-di-honor/,lzDMYMDb,htKvweNB,Aruba
+24,KA2u2NXi,A-League,/football/australia/a-league/,ADPCmMSi,OjWW1naM,Australia
+24,6FIQauXG,NPL ACT,/football/australia/npl-act/,jyqprIdT,r7Zd73Ph,Australia
+24,vTGYcJ1T,NPL Northern NSW,/football/australia/npl-northern-nsw/,ddEdaaCc,xUY06Nva,Australia
+24,U3U150Hc,NPL NSW,/football/australia/npl-nsw/,E5jcajIE,IDVz16ES,Australia
+24,jJIA3vnA,NPL Queensland,/football/australia/npl-queensland/,Iochjnu1,G8PFBMll,Australia
+24,vV3CnWVr,NPL South Australia,/football/australia/npl-south-australia/,8CTmCT1K,AVOJAt4f,Australia
+24,6seTrlV7,NPL Tasmania,/football/australia/npl-tasmania/,8bzIJp9m,U3Vh8qAn,Australia
+24,CSah6ViR,NPL Victoria,/football/australia/npl-victoria/,GEvjEtwP,lfZXonNq,Australia
+24,0IaX09Fl,NPL Western Australia,/football/australia/npl-western-australia/,WAWGWNhg,bRZ9b6xj,Australia
+24,YHSOtf32,NPL Finals Series,/football/australia/npl-finals-series/,8UHQ37ns,0CiRNVaB,Australia
+24,tbM3lLbd,Capital Premier League,/football/australia/capital-premier-league/,IaxIzCy2,WOImkHIt,Australia
+24,xzqaFnaf,Northern NSW State League,/football/australia/northern-nsw-state-league/,rgOss0O8,jsXtoDnI,Australia
+24,bkX7DQT6,NSW League One,/football/australia/nsw-league-one/,hCRUZHGr,rHTYnZH5,Australia
+24,63OUKGHP,Queensland Premier League,/football/australia/queensland-premier-league/,xblufw8E,pEyP1YWb,Australia
+24,2Z90Ffum,SA State League,/football/australia/sa-state-league/,YDiSne0l,d6nAajWN,Australia
+24,CEnvDCvC,Tasmania Northern Championship,/football/australia/tasmania-northern-championship/,tlK7on65,CdLkqiHU,Australia
+24,65ZQWgft,Tasmania Southern Championship,/football/australia/tasmania-southern-championship/,Aiz6bPkB,lnrG3f2n,Australia
+24,04SZUXOh,Victoria Premier League,/football/australia/victoria-premier-league/,SjPqisro,4xHememg,Australia
+24,CdwLSkOH,WA State League,/football/australia/wa-state-league/,KEo4B2ZG,UsZTs0BD,Australia
+24,CvSKqfZp,Australia Cup,/football/australia/australia-cup/,x8o13QPB,C8jTVoo9,Australia
+24,tvfOk0s2,Y-League,/football/australia/y-league/,YeeHraa4,Gv2kjDpN,Australia
+24,Q1GMJ2aM,A-League Women,/football/australia/a-league-women/,dU7xwuYF,tbR6H4dE,Australia
+25,rLV7T1Fd,Bundesliga,/football/austria/bundesliga/,rHlgXND5,rJg7S7Me,Austria
+25,r9JMxEY2,2. Liga,/football/austria/2-liga/,YVUSmqbn,EPQbW9EF,Austria
+25,zHyUzh3F,Regionalliga East,/football/austria/regionalliga-east/,WE0YPWBd,A5eaUTiq,Austria
+25,0lloZVXR,Regionalliga Central,/football/austria/regionalliga-central/,b5AynEYF,I3bnrlqS,Austria
+25,ARZxV9ek,Regionalliga West,/football/austria/regionalliga-west/,zyXiph3S,ldf3Tm7k,Austria
+25,25vtiiI8,Burgenland,/football/austria/burgenland/,CWhOxAe2,lOHYv6Sj,Austria
+25,AJuqYMWg,Karnten,/football/austria/karnten/,6wpPr0qL,vkSbo8kN,Austria
+25,IgSLVvWI,Niederosterreich,/football/austria/niederosterreich/,QmGbzIye,t6Ig3TZ3,Austria
+25,WMJnlMom,Oberosterreich,/football/austria/oberosterreich/,hvQ1dabE,foKP3k5i,Austria
+25,IRZXovoC,Salzburg,/football/austria/salzburg/,SpOlkHjl,YyJT29Kc,Austria
+25,ETqehL0t,Steiermark,/football/austria/steiermark/,dQF5oZkD,zLDUunDp,Austria
+25,SpicneaU,Vorarlberg,/football/austria/vorarlberg/,QBhu2otB,KdHc2mkA,Austria
+25,Myvp6xFb,Wien,/football/austria/wien/,I9XJf3Yp,2L62174G,Austria
+25,MLe14GqB,OFB Cup,/football/austria/ofb-cup/,z7wFI6Qi,8nQ2VTTL,Austria
+25,fZg92fEN,Bundesliga Women,/football/austria/bundesliga-women/,lvgwep6b,OS3UCs2l,Austria
+25,GlhfbYyo,OFB Cup Women,/football/austria/ofb-cup-women/,84gvFOPG,8lKREz4t,Austria
+26,dScZTJ6k,Premier League,/football/azerbaijan/premier-league/,xUUBfNMH,Y5mO1DE2,Azerbaijan
+26,Gbmwj1T8,I Liqa,/football/azerbaijan/i-liqa/,bNPpBr7b,MehDWGAF,Azerbaijan
+26,bZlfrcje,Azerbaijan Cup,/football/azerbaijan/azerbaijan-cup/,dQVX9ZCF,dMcBRRy2,Azerbaijan
+28,6XaEdzz1,Premier League,/football/bahrain/premier-league/,2HZas7mf,CdnS0XT8,Bahrain
+28,lrO23VBt,King's Cup,/football/bahrain/king-s-cup/,MN9rqKOb,Yu1Eu9Hj,Bahrain
+28,v3ijloA4,Bahrain Cup,/football/bahrain/bahrain-cup/,8CkaGzw2,raN2hj8c,Bahrain
+28,O8X6FuzI,Super Cup,/football/bahrain/super-cup/,Qe2cl57T,8Yo5BNtP,Bahrain
+29,YLv8FQfB,BFL,/football/bangladesh/bfl/,xlLBeIP1,ANxldAMe,Bangladesh
+29,0bukcrmo,Federation Cup,/football/bangladesh/federation-cup/,6e7Be9VI,jqQ0FYn2,Bangladesh
+30,Q3aIBLWj,Premier League,/football/barbados/premier-league/,YJOnKPbU,MT9qiQto,Barbados
+22,j1MnZ14E,Liga Profesional,/football/argentina/liga-profesional/,KYiWfJVg,naYhNOaA,Argentina
+22,8G4cEV0e,Copa de la Liga Profesional,/football/argentina/copa-de-la-liga-profesional/,j3wTwtag,vkIrPVm8,Argentina
+22,n1f5Iax3,Primera Nacional,/football/argentina/primera-nacional/,CIwD2G5N,QTNHA4p4,Argentina
+22,8GrEGw7F,Torneo Federal,/football/argentina/torneo-federal/,zuZoJyj4,l06JrDh6,Argentina
+22,zsav4HyS,Primera B,/football/argentina/primera-b/,GGDGlOLU,GKJrZE7I,Argentina
+22,SvvJdZT1,Primera C,/football/argentina/primera-c/,0SgXhzYo,zNLhJb1S,Argentina
+22,QauzMxM8,Torneo Promocional Amateur,/football/argentina/torneo-promocional-amateur/,I7nauqIs,vcEefsmC,Argentina
+22,67tiEYre,Copa Argentina,/football/argentina/copa-argentina/,tdpxiD74,OWsjCTcG,Argentina
+22,OfuGp6y7,Super Cup,/football/argentina/super-cup/,GGFkYsU9,dQL2aRml,Argentina
+22,boofzG5E,International Super Cup,/football/argentina/international-super-cup/,Eg01mV6T,n9MqmByi,Argentina
+22,rLoB89TD,Trofeo de Campeones,/football/argentina/trofeo-de-campeones/,EZeWFZDr,QgInyZiO,Argentina
+22,SEz6FPlC,Reserve League,/football/argentina/reserve-league/,xt1CHrR6,QgGuh3dL,Argentina
+22,hjRKN3KS,Torneos De Verano,/football/argentina/torneos-de-verano/,WQrxWyDI,4K05MrFG,Argentina
+22,t0shZ64t,Primera A Women,/football/argentina/primera-a-women/,YBdZGTzG,hnebO43r,Argentina
+31,YkUF2sfm,Vysshaya Liga,/football/belarus/vysshaya-liga/,S2JsqqzJ,ObKhcPDs,Belarus
+31,CUtg2LOa,Pershaya Liga,/football/belarus/pershaya-liga/,raB81Qkm,dn3EGkbF,Belarus
+31,IRq10agC,Belarusian Cup,/football/belarus/belarusian-cup/,Iy6Bb4Ka,nZdPEiqF,Belarus
+31,CIWmKt9t,Super Cup,/football/belarus/super-cup/,Crq2Bs45,KhQZzyw6,Belarus
+31,8pQdIKwg,Vysshaya Liga Women,/football/belarus/vysshaya-liga-women/,K8nA9LYH,j5LYv2rk,Belarus
+32,Y9pCz2uK,Jupiler Pro League,/football/belgium/jupiler-pro-league/,xdmwTjnQ,dG2SqPrf,Belgium
+32,fPrcWu3s,Challenger Pro League,/football/belgium/challenger-pro-league/,4lti9jCi,dMwNgPSC,Belgium
+32,CvHWHZW7,National Division 1 - ACFF,/football/belgium/national-division-1-acff/,4vB6dO1L,2LGHAwnR,Belgium
+32,4ILZwHgR,National Division 1 - VV,/football/belgium/national-division-1-vv/,pty491oR,G0ImBaHE,Belgium
+32,EF42rynC,Second Amateur Division Group ACFF,/football/belgium/second-amateur-division-group-acff/,lncZrOgL,INEz3JX1,Belgium
+32,zVhBtFGO,Second Amateur Division Group VFV A,/football/belgium/second-amateur-division-group-vfv-a/,Io5Mytne,0dRn3lhG,Belgium
+32,AHEPlI1t,Second Amateur Division Group VFV B,/football/belgium/second-amateur-division-group-vfv-b/,GOycuFhm,r5la287M,Belgium
+32,hQBZKhAM,Second Amateur Division Play Offs,/football/belgium/second-amateur-division-play-offs/,vyYxWZEL,WMnIXTNC,Belgium
+32,rFUloz15,Belgian Cup,/football/belgium/belgian-cup/,SCnMyXiC,6N9cdqTm,Belgium
+32,xbm6FWXq,Super Cup,/football/belgium/super-cup/,nqtDRLPQ,UT0zr3D6,Belgium
+32,OYLRrh0U,Pro League U21,/football/belgium/pro-league-u21/,r9vmfE7t,8WbuzSar,Belgium
+32,W4Ap3eon,Super League Women,/football/belgium/super-league-women/,0OsbkW65,SC4qC6gF,Belgium
+32,IP8E2ZFb,1st National Women,/football/belgium/1st-national-women/,U3ZEol6U,Y7YJeFPu,Belgium
+32,I9QV0DpB,Belgian Cup Women,/football/belgium/belgian-cup-women/,p0Ru4VLb,IXyr4UxA,Belgium
+34,rDczGxwI,Ligue 1,/football/benin/ligue-1/,6Zg0OKmB,ADm0U6gP,Benin
+230,jw1rEG7U,Premier League,/football/bermuda/premier-league/,hEGySgf3,6F3eh8Tm,Bermuda
+35,QBNYOgpo,Premier League,/football/bhutan/premier-league/,nJtZvXw9,8j1zGagB,Bhutan
+36,nJqEpFyH,Division Profesional,/football/bolivia/division-profesional/,lIqDUTz3,2Lmb6qrJ,Bolivia
+36,2Td3wPFQ,Copa Simon Bolivar,/football/bolivia/copa-simon-bolivar/,25TjZTxB,2kMCv8iR,Bolivia
+36,YBmZX2wl,Copa Pacena,/football/bolivia/copa-pacena/,WIvLjV7o,GSriZrFC,Bolivia
+36,QZ8KVGDt,Torneo Amistoso de Verano,/football/bolivia/torneo-amistoso-de-verano/,hSsArs0f,YBX57J5e,Bolivia
+37,Ch1Bklr9,WWIN Liga BiH,/football/bosnia-and-herzegovina/wwin-liga-bih/,vwgEhNbJ,Kt0lVSKJ,Bosnia and Herzegovina
+37,Ik4JmSCL,Prva Liga - FBiH,/football/bosnia-and-herzegovina/prva-liga-fbih/,b5AWqmXo,UeZAYvIr,Bosnia and Herzegovina
+37,6u4br6zq,Prva Liga - RS,/football/bosnia-and-herzegovina/prva-liga-rs/,WI8vrR1b,Qej5oW3c,Bosnia and Herzegovina
+37,h02Ssp5e,Bosnia and Herzegovina Cup,/football/bosnia-and-herzegovina/bosnia-and-herzegovina-cup/,x0T3vq1N,UFH7y8oi,Bosnia and Herzegovina
+37,CAchOjCU,Super Cup,/football/bosnia-and-herzegovina/super-cup/,n9uovTAa,Kzn1ujZ8,Bosnia and Herzegovina
+38,lSeytOZ7,Premier League,/football/botswana/premier-league/,MX4zZMOp,j9S62l8j,Botswana
+41,GO0K57WO,efbet League,/football/bulgaria/efbet-league/,ID1TwQHr,r9Y9rlDt,Bulgaria
+41,OfkwQAHt,Vtora liga,/football/bulgaria/vtora-liga/,fkHymL0D,vPgupwAd,Bulgaria
+41,rD3WL6oI,Third League - South-East,/football/bulgaria/third-league-south-east/,6ucf7Fin,bo5ma2tM,Bulgaria
+41,tAEgLpGU,Third League - South-West,/football/bulgaria/third-league-south-west/,viSI3XjB,G6XabMeS,Bulgaria
+41,AFm7Plng,Third League - North-East,/football/bulgaria/third-league-north-east/,QDXVAOhK,0v9Wh0Jk,Bulgaria
+41,Aa5ONSG5,Third League - North-West,/football/bulgaria/third-league-north-west/,GSTR1KF6,MmASgt4q,Bulgaria
+41,ziIBul1n,Bulgarian Cup,/football/bulgaria/bulgarian-cup/,0pNiKhyh,xWXDs8Sn,Bulgaria
+41,ddRMFAT0,Super Cup,/football/bulgaria/super-cup/,ERJxYPKk,Q17ZenSB,Bulgaria
+42,Shy5ypVN,Premier League,/football/burkina-faso/premier-league/,IgTYK5Cd,zuRA3mqS,Burkina Faso
+45,ChRyKxrl,CPL,/football/cambodia/cpl/,0GJpYOHd,dULnbCBD,Cambodia
+45,UqoI1Pve,Hun Sen Cup,/football/cambodia/hun-sen-cup/,AwaLb1Br,n7XCk4lR,Cambodia
+45,z9yd2lrf,Super Cup,/football/cambodia/super-cup/,vkPYFRk5,lrrFr9pf,Cambodia
+46,zuOlxMNb,Elite One,/football/cameroon/elite-one/,dA17i1LU,CAwa47eB,Cameroon
+46,0Cz6z0hB,Elite Two,/football/cameroon/elite-two/,O4ZvhVWA,tde9j9n4,Cameroon
+46,86YRnQP1,Super Cup,/football/cameroon/super-cup/,S4Uf5Ws4,4rtc8wxB,Cameroon
+47,nXYZZwNN,Canadian Premier League,/football/canada/canadian-premier-league/,Ms6Fe4w3,Cj4NwA8p,Canada
+47,6HF6UHpo,Championship,/football/canada/championship/,Cd2Bn00k,pWTVy4q2,Canada
+47,ngOCFEdJ,CSL,/football/canada/csl/,xAOXgf52,4h6we6sI,Canada
+50,Kfr8Kqek,Premiere Division,/football/chad/premiere-division/,pU6ELQTg,j7lesOWF,Chad
+51,dtweQvIP,Liga de Primera,/football/chile/liga-de-primera/,f1w5g1qT,0KangpCU,Chile
+51,r7IzAIum,Liga de Ascenso,/football/chile/liga-de-ascenso/,ABpVBrac,d6kYgx8t,Chile
+51,rizh8dAa,Segunda Division,/football/chile/segunda-division/,rPrwAMT9,WncNHmtr,Chile
+51,G4Ya6zuC,Copa Chile,/football/chile/copa-chile/,r90f80bM,nHerfQdO,Chile
+51,jRMU5E9O,Super Cup,/football/chile/super-cup/,COjQ2vMq,hEzE6pO0,Chile
+51,4fEeOePh,Primera Division Women,/football/chile/primera-division-women/,0UlxNaDF,negNM84J,Chile
+52,p4AngrWQ,Super League,/football/china/super-league/,6qZmcKtB,nc9yRmcn,China
+52,8YVTxMgl,League One,/football/china/league-one/,2BSdebBN,86AXRTst,China
+52,GbZyy0O0,League Two,/football/china/league-two/,bsESkxZp,8ndxlCCh,China
+52,xENpZwgD,FA Cup,/football/china/fa-cup/,zmknAcQG,hQWz6gLn,China
+52,nXY0bsoK,Super Cup,/football/china/super-cup/,tnHJikAk,Qo9l8OEU,China
+52,UVnq6dH9,Super League Women,/football/china/super-league-women/,zXdAOAf8,ruTxaWrd,China
+53,tYhlmBUI,Primera A,/football/colombia/primera-a/,I7rbp1up,t0fpnjs5,Colombia
+53,Cd9rBEMP,Primera B,/football/colombia/primera-b/,ABbJaDVs,4dzRa7y9,Colombia
+53,zeWzDi6j,Copa Colombia,/football/colombia/copa-colombia/,KGzltZyh,nwetmWRb,Colombia
+53,t6003AqC,Liga Women,/football/colombia/liga-women/,EuZ59xQh,0YXWDRtU,Colombia
+39,pv7V3RRE,Serie A Betano,/football/brazil/serie-a-betano/,hdLUdQGi,Yq4hUnzQ,Brazil
+39,tYGti5dR,Serie B Superbet,/football/brazil/serie-b-superbet/,lOEwe4o4,vRtLP6rs,Brazil
+39,GYVKoqKl,Serie C,/football/brazil/serie-c/,QgyfgrGG,xIv3pZNg,Brazil
+39,xlKTqNl1,Serie D,/football/brazil/serie-d/,0hqM930c,fw7Fqgw0,Brazil
+39,rZAjiDxK,Acreano,/football/brazil/acreano/,C2Z1Cx7k,n5hBMgPi,Brazil
+39,0nOGoyfc,Acreano 2,/football/brazil/acreano-2/,hde3Fzu2,dbfJzbNM,Brazil
+39,Iq9aoVUg,Alagoano,/football/brazil/alagoano/,YqIgEkrf,GSXSpZdT,Brazil
+39,vZtdDJCG,Alagoano 2,/football/brazil/alagoano-2/,GvtwGt9s,fD63Dn2E,Brazil
+39,Q9C7q9a6,Amapaense,/football/brazil/amapaense/,YmQ4YAZP,8KtKKXg4,Brazil
+39,0dzJ5jMP,Amazonense,/football/brazil/amazonense/,dAgRuStg,UTsGLDvb,Brazil
+39,SWUpwztS,Amazonense 2,/football/brazil/amazonense-2/,v3n8rNl2,fiJRg2v7,Brazil
+39,WYRzbnqC,Baiano,/football/brazil/baiano/,QZ2azOAU,CUoNY9xc,Brazil
+39,6T923sLi,Baiano 2,/football/brazil/baiano-2/,dSpTkqeB,KExaBeZL,Brazil
+39,hl8W2Lk4,Brasiliense,/football/brazil/brasiliense/,hYp264uh,KjLiHzS3,Brazil
+39,h03M3Tk2,Brasiliense 2,/football/brazil/brasiliense-2/,OYzgKbTb,QFLNObhC,Brazil
+39,hYPm1aKG,Capixaba,/football/brazil/capixaba/,0r6R2MvH,MH9XEe25,Brazil
+39,QsJsWRJl,Capixaba 2,/football/brazil/capixaba-2/,ANQ6Nhil,lhPEqDbi,Brazil
+39,QoOeawkT,Carioca,/football/brazil/carioca/,jXr0rhg2,IHuPOQcm,Brazil
+198,KKay4EE8,Premier League,/football/england/premier-league/,OEEq9Yvp,dYlOSQOD,England
+198,QJR8o6bs,Championship,/football/england/championship/,WvIi7C9d,2DSCa5fE,England
+198,jivQqpTg,League One,/football/england/league-one/,MkMfTgWF,rJSMG3H0,England
+198,EaWsXNc6,League Two,/football/england/league-two/,hIUsMBOk,0MwU4NW6,England
+198,6wyog5KP,National League,/football/england/national-league/,pQ0KZAwq,4CWHXGM1,England
+198,ve7tnNCa,National League North,/football/england/national-league-north/,Kt0TwudE,rsMtLd7e,England
+198,0Aekp1sC,National League South,/football/england/national-league-south/,j98GWdll,QPXiMdx8,England
+198,OEC0SjEb,National League Cup,/football/england/national-league-cup/,KOjUtykl,MFppGns2,England
+198,nVgJquCO,NPL Premier Division,/football/england/npl-premier-division/,rPMPSEmD,vDxY3snD,England
+198,2Rop2MRh,Southern League Premier Central,/football/england/southern-league-premier-central/,vJAHUROH,I5paWyvs,England
+198,4tLF10d5,Southern League Premier South,/football/england/southern-league-premier-south/,fF2rm9vn,W8l3Vegm,England
+198,YLCWcIeU,Isthmian League Premier Division,/football/england/isthmian-league-premier-division/,KOCoxqWp,A5UEIPnl,England
+198,n7JIHaBb,FA Cup,/football/england/fa-cup/,vwiWmMFj,lYQtaqPQ,England
+198,baU3FHAN,EFL Cup,/football/england/efl-cup/,YBO54Y5l,OMT80ou8,England
+198,jPPaWMRk,FA Community Shield,/football/england/fa-community-shield/,ClAuc9pk,AsSx0P9K,England
+198,v7FbXxe4,EFL Trophy,/football/england/efl-trophy/,UBXFyXtQ,4STIHq2f,England
+198,viXFVGPG,FA Trophy,/football/england/fa-trophy/,Eq9nWA4m,QyiV55Xs,England
+198,p0rICnv2,Premier League 2,/football/england/premier-league-2/,KOUOsllg,CfcJv4MD,England
+198,zBnLYT0L,Professional Development League,/football/england/professional-development-league/,2HVNfRXb,8WehgikI,England
+198,l6dLU7Or,Premier League Cup,/football/england/premier-league-cup/,K48KYzHd,rDtEtaDn,England
+198,IolxRPN7,Premier League U18,/football/england/premier-league-u18/,jyBGVMR1,4jNxMxhk,England
+198,ARsUz7pR,FA Youth Cup,/football/england/fa-youth-cup/,IFUcnrCr,4CIh5uRh,England
+198,pxtwVOx1,WSL,/football/england/wsl/,OIQybLel,h83Rfggo,England
+198,zmpti6aK,WSL 2,/football/england/wsl-2/,OMYnItmK,23rH3oco,England
+198,WzVRrtiJ,Women's National League North,/football/england/women-s-national-league-north/,2mOZAkoB,fgpKS4TK,England
+198,nXMh1N6m,Women's National League South,/football/england/women-s-national-league-south/,Uc8E37wo,YqqOROrR,England
+198,QBZV01y0,Women’s FA Cup,/football/england/women-s-fa-cup/,Q9J8RAVi,QmryvWCK,England
+198,IJiwau6C,Women's League Cup,/football/england/women-s-league-cup/,df1QNSUG,lEsYAzPG,England
+77,hnFBS5hK,Ligue 1,/football/france/ligue-1/,j9QeTLPP,KIShoMk3,France
+77,CWerNqGs,Ligue 2,/football/france/ligue-2/,0STrMwIa,Y35Jer59,France
+77,l2IbLNpf,National,/football/france/national/,U7LaIeHO,pv9Nf2KF,France
+77,OO6TK1F6,National 2 - Group A,/football/france/national-2-group-a/,MLOHxa2t,MV9g2nYD,France
+77,GWOzJupJ,National 2 - Group B,/football/france/national-2-group-b/,ryDQzwXh,0M8c16mK,France
+77,0pQVtqxQ,National 2 - Group C,/football/france/national-2-group-c/,fJvsZG15,rob20Q2Q,France
+77,rLRnZvaC,Coupe de France,/football/france/coupe-de-france/,tjVflxnn,AaHxMIcd,France
+77,pOvMybER,Super Cup,/football/france/super-cup/,W2zdwPRi,69Jb7MZL,France
+77,niECFhMr,Kings League - France,/football/france/kings-league-france/,OWkbk8Vh,YaHkePEt,France
+77,zatShMEt,Premiere Ligue Women,/football/france/premiere-ligue-women/,EmoKpfoB,G4Fiytao,France
+77,dEUzi0qg,Seconde Ligue Women,/football/france/seconde-ligue-women/,Eo60QPad,lASkHgCj,France
+77,niiDjvE5,Coupe de France Women,/football/france/coupe-de-france-women/,AcHflTi3,rXZLp3AT,France
+77,nRjB3OoS,Coupe de la Ligue Women,/football/france/coupe-de-la-ligue-women/,bgEtrRMb,h2VZKlRb,France
+77,CY6xyyVT,Super Cup Women,/football/france/super-cup-women/,6JDQx4qs,MsgG7nRa,France
+81,QwzghtID,Bundesliga,/football/germany/bundesliga/,8UYeqfiD,W6BOzpK2,Germany
+81,QRN71hyK,2. Bundesliga,/football/germany/2-bundesliga/,McQM1y7s,tKH71vSe,Germany
+81,fsEwdWbs,3. Liga,/football/germany/3-liga/,U7onbg66,fNLB0bs2,Germany
+81,KEQffATg,Regionalliga North,/football/germany/regionalliga-north/,CATzJzTP,jV4OhMB1,Germany
+81,6ZOOglb6,Regionalliga Nordost,/football/germany/regionalliga-nordost/,8QWNBhLa,lMiBiHst,Germany
+81,21IXiSSI,Regionalliga West,/football/germany/regionalliga-west/,8Oi4iOZp,nsGIGP38,Germany
+81,dnhiaqzn,Regionalliga Sudwest,/football/germany/regionalliga-sudwest/,hxgaFRRi,G6hmqKkJ,Germany
+81,ht22nN4b,Regionalliga Bayern,/football/germany/regionalliga-bayern/,8bKbQrtA,trcecUvT,Germany
+81,OMJvZk1s,Regionalliga Play Offs,/football/germany/regionalliga-play-offs/,Usd8D3Rh,pt3RHi3j,Germany
+81,zH3JvJRp,Oberliga NOFV-Nord,/football/germany/oberliga-nofv-nord/,Gnnlure3,0OqaJuLt,Germany
+81,hE9E2MJi,Oberliga NOFV- Sud,/football/germany/oberliga-nofv-sud/,OCkdwMPF,SOCj7yOC,Germany
+81,67sSlAek,Oberliga NOFV - Relegation,/football/germany/oberliga-nofv-relegation/,48lYeJpK,jL3uskn3,Germany
+81,46Ka0vJG,Oberliga Schleswig-Holstein,/football/germany/oberliga-schleswig-holstein/,foshUHn2,A1u6Khre,Germany
+81,CWN7bImT,Oberliga Hamburg,/football/germany/oberliga-hamburg/,6ZHUsH1e,4Gnjr60b,Germany
+81,AyZtHa3c,Oberliga Bremen,/football/germany/oberliga-bremen/,EsrEqUx0,dby2LYSl,Germany
+81,63SkFwY9,Oberliga Niedersachsen,/football/germany/oberliga-niedersachsen/,M7oMs87C,2yxbMEDr,Germany
+81,rZl6DH2M,Oberliga Westfalen,/football/germany/oberliga-westfalen/,8YhCd7M5,YXXRPFeA,Germany
+81,tEQb9eQq,Oberliga Hessen,/football/germany/oberliga-hessen/,CQkThPLU,MmeMTHZB,Germany
+81,YLr67Zfd,Oberliga Rheinland-Pfalz/Saar,/football/germany/oberliga-rheinland-pfalz-saar/,8tPieF2b,pAYoEyRc,Germany
+81,IZq1Vxm3,Oberliga Bayern Nord,/football/germany/oberliga-bayern-nord/,lS666WGG,YcZH14S6,Germany
+81,4frVUGHF,Oberliga Bayern Süd,/football/germany/oberliga-bayern-sud/,pf0F4AoT,MNVD2pD0,Germany
+81,4v0nTfnS,Oberliga Baden-Württemberg,/football/germany/oberliga-baden-wurttemberg/,tQooal9j,djqrpSVo,Germany
+81,0AoINY9k,Oberliga Mittelrhein,/football/germany/oberliga-mittelrhein/,llrLLi1c,O0XkDet4,Germany
+81,b7duNCv2,Oberliga Niederrhein,/football/germany/oberliga-niederrhein/,dEoTJVV9,xtZLDHBi,Germany
+81,6qo2KXnA,Oberliga NRW,/football/germany/oberliga-nrw/,KG1kEFtC,KYurXCc1,Germany
+81,2kTnbRDU,Oberliga Bayern,/football/germany/oberliga-bayern/,WAx1dahJ,O2hXNLCP,Germany
+81,AiLYe8iP,Oberliga Bayern - Relegation,/football/germany/oberliga-bayern-relegation/,CUNgvioF,CpMaoseh,Germany
+81,C070iSat,Oberliga Play Offs,/football/germany/oberliga-play-offs/,OxNHBY1M,UmHWv8n9,Germany
+81,vcnpSoof,DFB Pokal,/football/germany/dfb-pokal/,KKM91NFr,MNEDyOlF,Germany
+81,KQA8k6Uh,Super Cup,/football/germany/super-cup/,OIbWij08,bHJMFqJE,Germany
+81,xIp4YNk4,DFB Youth League,/football/germany/dfb-youth-league/,4QFIsvYj,htYaQO9L,Germany
+81,OhzNT2aC,DFB Junioren Pokal,/football/germany/dfb-junioren-pokal/,b1WlTaEs,tGIKopP7,Germany
+81,27tNQWG8,Kings League - Germany,/football/germany/kings-league-germany/,2uIjKaH5,xOxYeGec,Germany
+81,KKTVRtUO,Bundesliga Women,/football/germany/bundesliga-women/,bol6Rwqf,x6Lam4Z8,Germany
+81,vkSmnpFt,2. Bundesliga Women,/football/germany/2-bundesliga-women/,4riEPHD6,6wFKOdxG,Germany
+81,EBGIoOqg,DFB Pokal Women,/football/germany/dfb-pokal-women/,QcuNNerJ,0EDHzr4L,Germany
+81,vDDzThJr,Super Cup Women,/football/germany/super-cup-women/,EFq7F6K8,OQal39W1,Germany
+98,04lKZTBr,Serie A,/football/italy/serie-a/,6PWwAsA7,COuk57Ci,Italy
+98,zRxkZ7te,Serie B,/football/italy/serie-b/,jwYYXp2E,6oug4RRc,Italy
+98,tOucXoB7,Serie C - Group A,/football/italy/serie-c-group-a/,p4HJqOoK,jqT0Bapm,Italy
+98,Qyshek3E,Serie C - Group B,/football/italy/serie-c-group-b/,Uygjv29s,v9PdCuVt,Italy
+98,AV3ovsmm,Serie C - Group C,/football/italy/serie-c-group-c/,6LU5xtvf,MsYTtKp0,Italy
+98,0UwVxQ3E,Serie C - Promotion - Play Offs,/football/italy/serie-c-promotion-play-offs/,n1aeaq3T,zoxYuv06,Italy
+98,MwuRw6l8,Serie C - Play Out,/football/italy/serie-c-play-out/,8A0i0PmN,d0QtvIUI,Italy
+98,tQUXZxHO,Serie D - Group A,/football/italy/serie-d-group-a/,OtJmiugm,lK4fBirm,Italy
+98,z7Ykft2t,Serie D - Group B,/football/italy/serie-d-group-b/,juioVlxo,dl4KBBcg,Italy
+98,dMMbhKWh,Serie D - Group C,/football/italy/serie-d-group-c/,IypckATG,65x4OVCa,Italy
+98,naqyhb15,Serie D - Group D,/football/italy/serie-d-group-d/,EspW5VDc,lUR8NkS5,Italy
+98,S8iqjxWH,Serie D - Group E,/football/italy/serie-d-group-e/,vwuze55d,2XVCM9sC,Italy
+98,0MkilG0U,Serie D - Group F,/football/italy/serie-d-group-f/,6cGC84Kk,dfVGLTdI,Italy
+98,MavW9Jon,Serie D - Group G,/football/italy/serie-d-group-g/,4YNNSPBL,zoUKKmCO,Italy
+98,UPsv8cGb,Serie D - Group H,/football/italy/serie-d-group-h/,xQC5sPQE,rDMCqXlP,Italy
+98,fcfe6yoB,Serie D - Group I,/football/italy/serie-d-group-i/,2ep3LY9C,pM8vuict,Italy
+98,AcIZyH2t,Serie D - Winners stage,/football/italy/serie-d-winners-stag/,r98JGpY3,ImhF8n8h,Italy
+98,z5ujOdVi,Coppa Italia,/football/italy/coppa-italia/,vZxaIKKH,bLyo6mco,Italy
+98,ARTKNz04,Coppa Italia Serie C,/football/italy/coppa-italia-serie-c/,z1W7GbkU,0AMHbjuF,Italy
+98,p4ONKEUG,Coppa Italia Serie D,/football/italy/coppa-italia-serie-d/,fVUPz2zn,6FQ0WJ7j,Italy
+98,MkTKZY15,Super Cup,/football/italy/super-cup/,CtfhFGAO,AiiibTti,Italy
+98,4EIPYhHB,Super Cup (Serie C),/football/italy/super-cup-serie-c/,4EBrv0mP,rkKK54b6,Italy
+98,zN4JxzFc,Primavera 1,/football/italy/primavera-1/,YaMqUc4N,tWO9gjI2,Italy
+98,8z3RzEqA,Primavera 2,/football/italy/primavera-2/,dMHIpJl4,l42drEbb,Italy
+98,6LaA75Tr,Coppa Italia Primavera,/football/italy/coppa-italia-primavera/,r3i1aI3c,j1pBfg5a,Italy
+98,MF0iizXu,Supercoppa Primavera,/football/italy/supercoppa-primavera/,EiLoTZvO,Y97NgDK5,Italy
+98,MDKze45j,Kings League - Italy,/football/italy/kings-league-italy/,OrlSz3yg,hKfbBFqn,Italy
+98,z1iR3NS7,Serie A Women,/football/italy/serie-a-women/,C6VkulIr,dMXaGPOf,Italy
+98,pK2sTQKE,Serie B Women,/football/italy/serie-b-women/,Yws9cmvR,lIWIwelG,Italy
+98,vJejR4kR,Coppa Italia Women,/football/italy/coppa-italia-women/,dtnlhR1l,MRvgNIq5,Italy
+98,bgtJEBZr,Serie A Cup Women,/football/italy/serie-a-cup-women/,fLD2i25N,lYQPfqdl,Italy
+98,Y3FKnCoB,Super Cup Women,/football/italy/super-cup-women/,AkoAPQwj,zkJr8Gun,Italy
+181,Qwn11AAt,Allsvenskan,/football/sweden/allsvenskan/,ltrtRhko,nXxWpLmT,Sweden
+181,CUbso4Nc,Superettan,/football/sweden/superettan/,Mmys27Ja,bBIP6pm3,Sweden
+181,by2QcS95,Division 1 - Norra,/football/sweden/division-1-norra/,vgofrhBT,UZCe41Bj,Sweden
+181,Q582ep9U,Division 1 - Södra,/football/sweden/division-1-sodra/,fkPIprhc,02P7Upli,Sweden
+181,lndp1Ua5,Division 1 - Relegation,/football/sweden/division-1-relegation/,r9jUGqzo,INQoyd4f,Sweden
+181,hfBEBqON,Division 2 - Norrland,/football/sweden/division-2-norrland/,MgIYgwyS,YiHKRrY9,Sweden
+181,pz7KFmfn,Division 2 - Norra Götaland,/football/sweden/division-2-norra-gotaland/,2aprs0iM,lhGQk0Yg,Sweden
+181,WvN5D5gB,Division 2 - Norra Svealand,/football/sweden/division-2-norra-svealand/,ld29cLy3,MHDGSOI3,Sweden
+181,Y1d9T484,Division 2 - Södra Götaland,/football/sweden/division-2-sodra-gotaland/,IaI7AbL8,ANwyQM2M,Sweden
+181,Ct9nTrwH,Division 2 - Södra Svealand,/football/sweden/division-2-sodra-svealand/,lWddjUZg,4ORfkqIS,Sweden
+181,IwCfRM7T,Division 2 - Västra Götaland,/football/sweden/division-2-vastra-gotaland/,WElDnnZI,6XDMp3Qq,Sweden
+181,nZBk4syA,Division 2 - Promotion Group,/football/sweden/division-2-promotion-group/,jXn4wmSi,CdrcXPs6,Sweden
+181,8dhjqrhA,Svenska Cupen,/football/sweden/svenska-cupen/,YBMGIS3t,pWCk7429,Sweden
+181,Y3k9alug,Allsvenskan Women,/football/sweden/allsvenskan-women/,ATyMmdsh,Oz3Kisdp,Sweden
+181,2BmRL0Vj,Elitettan Women,/football/sweden/elitettan-women/,nBtv5Tlm,bJV6wsuF,Sweden
+181,vemsED6e,Svenska Cupen Women,/football/sweden/svenska-cupen-women/,pz6lB22U,hxNnWi6H,Sweden
+191,Kbv7JCLO,Super Lig,/football/turkey/super-lig/,EVZfW0bc,Opdcd08Q,Turkey
+191,hlpPwnO8,1. Lig,/football/turkey/1-lig/,jgd2GKdJ,Spw6Az1D,Turkey
+191,YZkUHe76,2. Lig White Group,/football/turkey/2-lig-white-group/,2NQpVJBC,v99EsEjo,Turkey
+191,0MiMJHxf,2. Lig Red Group,/football/turkey/2-lig-red-group/,t8xxXus0,dUL46cTo,Turkey
+191,hMwMVht1,2. Lig Play Offs,/football/turkey/2-lig-play-offs/,zuZfWDn4,vRvKpKGc,Turkey
+191,8dvaHZyJ,3. Lig Group 1,/football/turkey/3-lig-group-1/,vsP8X9ht,YT8o2dVC,Turkey
+191,vLfguwUP,3. Lig Group 2,/football/turkey/3-lig-group-2/,CfNGVmNh,CK7k1GpJ,Turkey
+191,OhWPZGim,3. Lig Group 3,/football/turkey/3-lig-group-3/,CvuYTRi5,ChwgcrNJ,Turkey
+191,jJnjNfMa,3. Lig Group 4,/football/turkey/3-lig-group-4/,K4rtS5MH,f7kSi1M8,Turkey
+191,4ligz8Xn,3. Lig Play Offs,/football/turkey/3-lig-play-offs/,SKEuDPoq,zcUpovW3,Turkey
+191,C6rByY55,Turkish Cup,/football/turkey/turkish-cup/,rsMpLCb9,WbT430Fg,Turkey
+191,0Gp2Yo2a,Super Cup,/football/turkey/super-cup/,QeMjXpwF,AaJWovgK,Turkey
+191,txTouG6t,Super Lig Women,/football/turkey/super-lig-women/,AcT3UvT9,jo7I5KPr,Turkey
+25,nRaKlw05,Tirol,/football/austria/tirol/,4Ese0Y46,IuR2pS4T,Austria
+51,zJyD1KZh,Copa de la Liga,/football/chile/copa-de-la-liga/,b1hAnrVr,vaB25Efd,Chile
+24,zob031Gi,Australian Championship,/football/australia/australian-championship/,jRBReoIk,CS1v5T7M,Australia
+53,n77i5WEa,Super Cup,/football/colombia/super-cup/,8S35Bbet,xf8XsTvf,Colombia
+39,vuRqHbZ9,Carioca 2,/football/brazil/carioca-2/,pOgbeVx8,nDvxRCgi,Brazil
+39,fg5LsDqm,Carioca B1,/football/brazil/carioca-b1/,CxjtawAM,z9RQtBrA,Brazil
+39,dQ9ALMSp,Carioca B2,/football/brazil/carioca-b2/,44xB6fHk,Wp00u9SS,Brazil
+39,KnS09fdd,Carioca C,/football/brazil/carioca-c/,WQdfhHmD,vuiibAc3,Brazil
+39,j5qsVFmS,Catarinense,/football/brazil/catarinense/,rFXW5G26,jLpRXTi3,Brazil
+39,YcIVCXu2,Catarinense 2,/football/brazil/catarinense-2/,6yT5Mymm,x0KLUZud,Brazil
+39,Q1agpwdd,Catarinense 3,/football/brazil/catarinense-3/,KGIQtmGG,S0q4e8sM,Brazil
+39,U9TPzyY8,Cearense,/football/brazil/cearense/,xMANIgnC,nizhYm79,Brazil
+39,2RaLThQr,Cearense 2,/football/brazil/cearense-2/,tt2NIphT,2BsDkQZe,Brazil
+39,OtlURWfe,Cearense 3,/football/brazil/cearense-3/,dxflyS7c,GEoHlpk2,Brazil
+39,URhgkEHE,Gaucho,/football/brazil/gaucho/,zykhQ1ad,QsZeX7MF,Brazil
+39,EHL1my6O,Gaucho 2,/football/brazil/gaucho-2/,zXCHZWXn,lhwL191p,Brazil
+39,I7x7hG66,Gaucho 3,/football/brazil/gaucho-3/,St87xEYO,KjrHhq4e,Brazil
+39,2TldWqWa,Goiano,/football/brazil/goiano/,URajwuq2,K4YaWRyM,Brazil
+39,j9ytX4pn,Goiano 2,/football/brazil/goiano-2/,0W1dOZdl,nF9iel9C,Brazil
+39,GMGy0OJj,Goiano 3,/football/brazil/goiano-3/,t8Eh96Q0,0SnCCms9,Brazil
+39,W8tDS1VO,Maranhense,/football/brazil/maranhense/,WQEXcM5L,WbvlLMm7,Brazil
+39,8Sq4Q0Ik,Maranhense 2,/football/brazil/maranhense-2/,l233lZqA,GbBedGf6,Brazil
+39,4puil5Gt,Matogrossense,/football/brazil/matogrossense/,StIKjvbe,Gzbi2Ywh,Brazil
+39,pfmanqog,Matogrossense 2,/football/brazil/matogrossense-2/,IiMNCLKE,MqrXe4Lh,Brazil
+39,dnbpp1pI,Mineiro,/football/brazil/mineiro/,W6hTl9YO,MPE3SUM5,Brazil
+39,4C1hruFU,Mineiro 2,/football/brazil/mineiro-2/,veKI38mI,SrxP0TGj,Brazil
+39,p2lIhbYo,Mineiro 3,/football/brazil/mineiro-3/,EHWDzVX0,O8ntGQQE,Brazil
+39,6VY4EXXA,Paraense,/football/brazil/paraense/,rX0KO1Cc,WSLB5dci,Brazil
+39,UPx6gB9j,Paraense A2,/football/brazil/paraense-a2/,ra7yHciA,Uok9CNkh,Brazil
+39,j3kd8AOq,Paraense A3,/football/brazil/paraense-a3/,21uALhTk,8xlDBs5b,Brazil
+39,vqXCCB2N,Paraibano,/football/brazil/paraibano/,KdCFFcZq,QVzcgzUp,Brazil
+39,IwKQ1KY2,Paraibano 2,/football/brazil/paraibano-2/,ShdPHhOt,OxhYHMwi,Brazil
+39,UJptKhIi,Paranaense,/football/brazil/paranaense/,K0KQZIQF,pScFgSj2,Brazil
+39,jZYlIWn4,Paranaense 2,/football/brazil/paranaense-2/,f7IDSzJk,rwLHVFQk,Brazil
+39,xlLD6jIt,Paranaense 3,/football/brazil/paranaense-3/,KMsL3bpT,fofEf25B,Brazil
+39,tCeRHAHG,Paulista,/football/brazil/paulista/,noNGlIu9,CCW826Dg,Brazil
+39,zBlzGlnT,Paulista A2,/football/brazil/paulista-a2/,6gO0Hf3L,WCjg6kgT,Brazil
+39,Wtz6AS9j,Paulista A3,/football/brazil/paulista-a3/,4UX3m9oQ,Eo1Qi0kU,Brazil
+39,U1yNZV1c,Paulista A4,/football/brazil/paulista-a4/,00JZsm9m,2NkXunWm,Brazil
+39,2ainWm1M,Paulista B,/football/brazil/paulista-b/,Sj1QfQhg,46YornoJ,Brazil
+39,jTXwSROq,Pernambucano,/football/brazil/pernambucano/,8EKckMMU,2P3AHVr9,Brazil
+39,lb5k2T23,Pernambucano 2,/football/brazil/pernambucano-2/,ObOTVHzS,MskXPKl4,Brazil
+39,lGgXrqMm,Pernambucano 3,/football/brazil/pernambucano-3/,tjg7ewLp,IDvbQv4A,Brazil
+39,neRnQ5gd,Piauiense,/football/brazil/piauiense/,WUKct0aN,p2rhKt3D,Brazil
+39,SSpv9WRQ,Piauiense 2,/football/brazil/piauiense-2/,YLoS1tHN,tz4x8a4N,Brazil
+39,AFVeO9N0,Piauiense U20,/football/brazil/piauiense-u20/,SAHozT24,C0soJddp,Brazil
+39,r7xsl9o3,Potiguar,/football/brazil/potiguar/,6X2TzVS1,AJKF4GCc,Brazil
+39,StGUDbeJ,Potiguar 2,/football/brazil/potiguar-2/,j7srbmWb,0Ai5sK3c,Brazil
+39,ITQBmmGF,Rondoniense,/football/brazil/rondoniense/,ML2BeCkL,zocp8BOG,Brazil
+39,Y9c4Kl6r,Rondoniense 2,/football/brazil/rondoniense-2/,tj37kMFk,rijTQ0Zc,Brazil
+39,xjawUv0l,Roraimense,/football/brazil/roraimense/,4E3A8kZQ,hxzY8i9A,Brazil
+39,pQoGRdaD,Sergipano,/football/brazil/sergipano/,fZWfEpB6,M9Aetg5p,Brazil
+39,UHpPTQVQ,Sergipano 2,/football/brazil/sergipano-2/,rwnlbyoC,pptQ07dF,Brazil
+39,4Ms6ubOp,Sergipano 3,/football/brazil/sergipano-3/,fB8v3TPF,CrpN6kwA,Brazil
+39,4jhBk0iK,Sul-Matogrossense,/football/brazil/sul-matogrossense/,6cIUU5em,Acce1hgb,Brazil
+39,ILwGjfTi,Sul-Matogrossense 2,/football/brazil/sul-matogrossense-2/,WQzqfGfJ,G0rNhtzO,Brazil
+39,0MwspvFs,Tocantinense,/football/brazil/tocantinense/,2VfnRNfC,I9nk7VwN,Brazil
+39,MZaCGAd3,Tocantinense 2,/football/brazil/tocantinense-2/,EiJuaWmd,lps1B9Xl,Brazil
+39,xCPf66Jk,Tocantinense U20,/football/brazil/tocantinense-u20/,6aVYZCP8,dnYQrybk,Brazil
+39,2yDCqIqf,Copa Betano do Brasil,/football/brazil/copa-betano-do-brasil/,8UMJ8Fvo,zFsJPnr6,Brazil
+39,x08S8H72,Copa do Brasil U20,/football/brazil/copa-do-brasil-u20/,8hgZdJwJ,IVerjrRP,Brazil
+39,bc0QmCV1,Copa do Brasil U17,/football/brazil/copa-do-brasil-u17/,tO8LPcY0,zP3AAzCM,Brazil
+39,tzGq5wyQ,Copa Alagoas,/football/brazil/copa-alagoas/,2e64KhOj,xl8K5rP0,Brazil
+39,CSzplzYF,Copa Centro-Oeste,/football/brazil/copa-centro-oeste/,OCBawXAc,EoJTA1hm,Brazil
+39,zNIWceTa,Copa Espirito Santo,/football/brazil/copa-espirito-santo/,4hEfZiwp,tOo4Xjf8,Brazil
+39,Yu6LNqpI,Copa Fares Lopes,/football/brazil/copa-fares-lopes/,CU7shvGL,nwp9f5Zr,Brazil
+39,tpGgv5Ub,Copa FGF,/football/brazil/copa-fgf/,nRtKWHAa,460Abbes,Brazil
+39,04l7A477,Copa FMF (Mato Grosso),/football/brazil/copa-fmf-mato-grosso/,UJ5CqzWK,fP0vDqLu,Brazil
+39,I9A9eDSO,Copa Grao Para,/football/brazil/copa-grao-para/,S0YMiiaS,U7Wy0Kke,Brazil
+39,42Xyjd33,Copa Norte,/football/brazil/copa-norte/,AqKYKkeT,8nidT98E,Brazil
+39,j3CW7yN8,Copa Paulista,/football/brazil/copa-paulista/,ClKk5GVu,6LFqoW2l,Brazil
+39,lY811YC5,Copa Rio,/football/brazil/copa-rio/,dzad6jEL,xMPnQS9k,Brazil
+39,lMbdJgcn,Copa Rio U20,/football/brazil/copa-rio-u20/,Ktbp5bfE,baQs5Is5,Brazil
+39,fFRFb3tp,Copa Santa Catarina,/football/brazil/copa-santa-catarina/,vLNZhPiU,AsOrFCsH,Brazil
+39,hv0wcjQG,Copa Sul-Sudeste,/football/brazil/copa-sul-sudeste/,IcmnP5Q7,CzG28lrm,Brazil
+39,pQBz7exF,Copa Verde,/football/brazil/copa-verde/,KENc3f0h,MX0a0C84,Brazil
+39,MBKRIOXF,Copa do Nordeste,/football/brazil/copa-do-nordeste/,AZYl22Up,Ao7GPS6O,Brazil
+39,nqXrH22S,Supercopa do Brasil,/football/brazil/supercopa-do-brasil/,8fbHK1jT,v3klObUb,Brazil
+39,xWQrBKf2,Recopa Catarinense,/football/brazil/recopa-catarinense/,Ojjrwq6c,6ZrxWlvR,Brazil
+39,84Q7Y1HL,Recopa Gaucho,/football/brazil/recopa-gaucho/,fNUWIEKr,prwZFDl8,Brazil
+39,t8MQQHWi,Brasileiro U23,/football/brazil/brasileiro-u23/,WO5hxie3,0GEaHRAf,Brazil
+39,4KTfRJ9e,Brasileiro U20,/football/brazil/brasileiro-u20/,GftjyEtR,rRJNXvtn,Brazil
+39,Msr8cYve,Brasileiro U20 B,/football/brazil/brasileiro-u20-b/,Glkq28K6,Y3u36EZq,Brazil
+39,p05RCtNb,Brasileiro U17,/football/brazil/brasileiro-u17/,nmjZnRhK,dEviSpu9,Brazil
+39,UVMOQcv8,Acreano U20,/football/brazil/acreano-u20/,z5CPSVY0,Aa58kqA7,Brazil
+39,f7rT5y5j,Alagoano U20,/football/brazil/alagoano-u20/,tG05YuVP,bc9G6O9f,Brazil
+39,UqLJgeQ8,Amazonense U20,/football/brazil/amazonense-u20/,vVI0J3QE,YFPs9L86,Brazil
+39,KxPxLcnl,Baiano U20,/football/brazil/baiano-u20/,jRwPwmmJ,Ie5sQ08g,Brazil
+39,QZRpJyH0,Brasiliense U20,/football/brazil/brasiliense-u20/,QHkkdU2m,rVMNKTLj,Brazil
+39,Gh8tyc1s,Capixaba U20,/football/brazil/capixaba-u20/,0CD47oH5,6iClKehF,Brazil
+39,hOUdZzWg,Carioca U20,/football/brazil/carioca-u20/,dMquBKNc,Ywp0dlSF,Brazil
+39,vV7zS9xn,Catarinense U20,/football/brazil/catarinense-u20/,MaqBc2ek,8lr9j6Kk,Brazil
+39,lUj8ORyB,Cearense U20,/football/brazil/cearense-u20/,rwd1C1Ar,OzuUaRBL,Brazil
+39,jqad7FLa,Gaucho U20,/football/brazil/gaucho-u20/,dSpsgQOM,fDWohNY7,Brazil
+39,KMQ8IqUp,Goiano U20,/football/brazil/goiano-u20/,rmmLU0WQ,CYrxH6B8,Brazil
+39,C0VBvRj4,Matogrossense U20,/football/brazil/matogrossense-u20/,tA90N9UH,nHflfrj5,Brazil
+39,YRRSWMDj,Mineiro U20,/football/brazil/mineiro-u20/,jXpCiUTi,2FD7gEvP,Brazil
+39,2qA0SVFF,Paraense U20,/football/brazil/paraense-u20/,vkq83WUI,KKFT9LZA,Brazil
+39,txjPYwTa,Paraibano U20,/football/brazil/paraibano-u20/,dGhaCcIE,EJvPcQjt,Brazil
+39,Ofoif4zA,Paranaense U20,/football/brazil/paranaense-u20/,tUkFt4Lj,YFarC3zn,Brazil
+39,lSc8hr5M,Paulista U20,/football/brazil/paulista-u20/,WOBZ0PCM,WtWgNkIr,Brazil
+39,fXx9n0cd,Pernambucano U20,/football/brazil/pernambucano-u20/,dhQ0Hy3K,fq1EOIYM,Brazil
+39,SnF9GvuB,Potiguar U20,/football/brazil/potiguar-u20/,MFudzevm,japIvImG,Brazil
+39,OpFMdSfk,Rondoniense U20,/football/brazil/rondoniense-u20/,GvMFmaFd,MJh1r0li,Brazil
+39,MasLKMhD,Sergipano U20,/football/brazil/sergipano-u20/,bNyVPDqB,rcaEcIAm,Brazil
+39,ltaQ9sKF,Sul-Matogrossense U20,/football/brazil/sul-matogrossense-u20/,GAtINhAm,U3pU3wSp,Brazil
+39,pd2D2aCk,Copinha,/football/brazil/copinha/,44z6M0jt,EcKec6pj,Brazil
+39,G60mIGGt,Kings League - Brazil,/football/brazil/kings-league-brazil/,C2wyFGUp,K0D5swCi,Brazil
+39,EBydq44T,Kings Cup,/football/brazil/kings-cup/,p0eAh9qf,2mgOq7mL,Brazil
+39,EJs7jSte,Copinha Women,/football/brazil/copinha-women/,hEQS6SHt,IuqN7nef,Brazil
+39,WG0s2ws2,Brasileiro Women,/football/brazil/brasileiro-women/,CEeVIIk5,U9RaeP9S,Brazil
+39,lE6xQtZ8,Brasileiro A2 Women,/football/brazil/brasileiro-a2-women/,juPwFzkU,8v9CMAZj,Brazil
+39,butm7Cmf,Brasileiro A3 Women,/football/brazil/brasileiro-a3-women/,IJrLVeZA,fZBv0k32,Brazil
+39,SKX33UnJ,Supercopa do Brasil Women,/football/brazil/supercopa-do-brasil-women/,r5b1BRmd,fLfLpP72,Brazil
+39,nPFIUxko,Brasileiro U20 Women,/football/brazil/brasileiro-u20-women/,6aJYAJNh,AmFSDyn1,Brazil
+39,K0laGX1B,Acreano Women,/football/brazil/acreano-women/,zZ1T9Yec,4220i5ue,Brazil
+39,bTEnQddM,Alagoano Women,/football/brazil/alagoano-women/,Ysmztcxg,2s6TD6HK,Brazil
+39,KxM3W496,Amazonense Women,/football/brazil/amazonense-women/,fgeNcsLh,lvAdB39s,Brazil
+39,Gj6K1P8t,Baiano Women,/football/brazil/baiano-women/,ldn2DgBj,6TNk7awJ,Brazil
+39,446iHS4e,Brasiliense Women,/football/brazil/brasiliense-women/,zmczAod2,04SgPKNa,Brazil
+39,jigeXaCj,Carioca Women,/football/brazil/carioca-women/,l8OdG2yP,M3tdcUC9,Brazil
+39,xlaMUZas,Capixaba Women,/football/brazil/capixaba-women/,j7Duv5sn,pdKeGZ57,Brazil
+39,nuCqaxBk,Catarinense Women,/football/brazil/catarinense-women/,jBToda6E,Ucq5in5q,Brazil
+39,69bwYdHE,Cearense Women,/football/brazil/cearense-women/,2Dk7Gp34,Myl8DTR2,Brazil
+39,fydD3XKO,Gaucho Women,/football/brazil/gaucho-women/,t4GMiY4F,GMXsg3J1,Brazil
+39,x0TRENYq,Goiano Women,/football/brazil/goiano-women/,KQDKPIGb,t0qDgPlk,Brazil
+39,xxqByIW7,Maranhense Women,/football/brazil/maranhense-women/,vuxt7bBC,U1FaezAC,Brazil
+39,zwvTeCNt,Matogrossense Women,/football/brazil/matogrossense-women/,bq9sLIs3,48XyeOza,Brazil
+39,84H8tYPp,Mineiro Women,/football/brazil/mineiro-women/,f1JnisOb,jRbvbxQg,Brazil
+39,tthc6uaD,Paraense Women,/football/brazil/paraense-women/,zw2dV8TH,2amHA1K4,Brazil
+39,jXzakaDt,Paraibano Women,/football/brazil/paraibano-women/,jLIdPz2K,8tvTdp6n,Brazil
+39,WffWqesI,Paranaense Women,/football/brazil/paranaense-women/,fN06Vi9m,YygIgMKH,Brazil
+39,vk6fFXvQ,Paulista Women,/football/brazil/paulista-women/,2V4dZUu3,rZtAtvJ3,Brazil
+39,4t2M6Ovq,Pernambucano Women,/football/brazil/pernambucano-women/,Iydoz4IO,0M1APbJG,Brazil
+39,WQ0gI94s,Piauiense Women,/football/brazil/piauiense-women/,zq5zAAae,lUjPRtKi,Brazil
+39,ltArXaPi,Potiguar Women,/football/brazil/potiguar-women/,K4WcpCh5,dxoEubY9,Brazil
+39,zRZQGmnL,Rondoniense Women,/football/brazil/rondoniense-women/,I9yqzsml,6J4INxlT,Brazil
+39,tSz5WaxJ,Sergipano Women,/football/brazil/sergipano-women/,0pewYsSr,6aUYboRR,Brazil
+39,SbmJuUKj,Sul-Matogrossense Women,/football/brazil/sul-matogrossense-women/,lEwgk7go,2q5Y8ukH,Brazil
+39,h4aLYPi2,Copa do Brasil Women,/football/brazil/copa-do-brasil-women/,4jVWsYBC,z7AqHW5F,Brazil
+39,rJHNVL8r,Copa Paulista Women,/football/brazil/copa-paulista-women/,rqiP2tie,vDIPEJQc,Brazil
+39,ARcC7T1C,Copa Rio Women,/football/brazil/copa-rio-women/,xtBfn8P8,MNShyaa1,Brazil
+155,U1ymuRr3,Liga Portugal,/football/portugal/liga-portugal/,IgF19YCc,UmMRoGzp,Portugal
+155,jHPew5DF,Liga Portugal 2,/football/portugal/liga-portugal-2/,j7D97CsA,hSUajdSS,Portugal
+155,tfnYxqrS,Liga 3,/football/portugal/liga-3/,rkA5b84d,ALfcD7BL,Portugal
+155,YiRCV0z2,Campeonato de Portugal - Group A,/football/portugal/campeonato-de-portugal-group-a/,0KkoYlt9,f5NrxGlc,Portugal
+155,SzMGircL,Campeonato de Portugal - Group B,/football/portugal/campeonato-de-portugal-group-b/,ADRtNOX7,0z15YHho,Portugal
+155,2oKPo0ke,Campeonato de Portugal - Group C,/football/portugal/campeonato-de-portugal-group-c/,2iWqq6fR,MXkGrAdo,Portugal
+155,v7wS7sCE,Campeonato de Portugal - Group D,/football/portugal/campeonato-de-portugal-group-d/,WjvXyOn1,0OlKsUBi,Portugal
+155,ETRd7LtR,Campeonato de Portugal - Play Offs,/football/portugal/campeonato-de-portugal-play-offs/,A9orC7Jk,4EztZqlp,Portugal
+155,AqVq0wZ0,Campeonato de Portugal - Promotion Group,/football/portugal/campeonato-de-portugal-promotion-group/,G6ljAol2,Kta9v6QM,Portugal
+155,fLU8NKeK,Taça de Portugal,/football/portugal/taca-de-portugal/,44xuz2HD,j3Azpf5d,Portugal
+155,UVSHHxlf,League Cup,/football/portugal/league-cup/,vD1wK1lU,WdKOwxDM,Portugal
+155,r5ynbjqd,Super Cup,/football/portugal/super-cup/,GIYDMSp4,CCBWpzjj,Portugal
+155,drKYDfmJ,Liga Revelacao U23,/football/portugal/liga-revelacao-u23/,xCiFX03N,z9Lscb4e,Portugal
+155,dxBlMgy3,Taca Revelacao U23,/football/portugal/taca-revelacao-u23/,b5n0x8pi,hpp2CRQR,Portugal
+155,xY9wJTgB,Campeonato Nacional U19,/football/portugal/campeonato-nacional-u19/,pfMzhefd,CdJVQ90r,Portugal
+155,YRJl67ON,Liga BPI Women,/football/portugal/liga-bpi-women/,2ZzwExHF,bHe6ypPK,Portugal
+155,4AAK0ono,Taça de Portugal Women,/football/portugal/taca-de-portugal-women/,bTOUFkhK,6ckXVz2h,Portugal
+155,lOBFOlvh,Taça da Liga Women,/football/portugal/taca-da-liga-women/,EPIpKs9O,nBHOLgbm,Portugal
+155,UZQDIBzS,Super Cup Women,/football/portugal/super-cup-women/,6w2bSNMq,pllyVfHb,Portugal
+92,YZPIM59T,Besta deild karla,/football/iceland/besta-deild-karla/,jgGn3EuQ,GdxJccH5,Iceland
+92,hK6kHqXj,Division 1,/football/iceland/division-1/,ryDrfA2C,84XL6nas,Iceland
+92,lWHqumPc,Division 2,/football/iceland/division-2/,YuAmBiIt,2LH3Ywq4,Iceland
+92,nTS6vRgA,League Cup,/football/iceland/league-cup/,t6De9Vng,hrKyRkqo,Iceland
+92,bBfNx5OM,Icelandic Cup,/football/iceland/icelandic-cup/,E3TK5mnI,YmF6bw2a,Iceland
+92,rqWgXrnp,Reykjavik Cup,/football/iceland/reykjavik-cup/,82MT3RGU,lzeKyAaM,Iceland
+92,vsrAOnK8,Fotbolti.net Cup,/football/iceland/fotbolti-net-cup/,6aZcn6JN,KvLe2ZL4,Iceland
+92,lUMGvZZ2,Super Cup,/football/iceland/super-cup/,ddUJIQVN,O6zWlgyh,Iceland
+92,MsLOxD4F,Besta deild Women,/football/iceland/besta-deild-women/,6VFkD4go,KhTRy75s,Iceland
+92,W4OXWUdk,League Cup Women,/football/iceland/league-cup-women/,rsAsL7I8,ADxysi2a,Iceland
+92,hKCtV8R1,Icelandic Cup Women,/football/iceland/icelandic-cup-women/,v93jJomL,OImFIgND,Iceland
+92,0GvtujlL,Super Cup Women,/football/iceland/super-cup-women/,baTVB3ue,S4qldFZo,Iceland
+76,jg5JgLZo,Veikkausliiga,/football/finland/veikkausliiga/,h6IND07k,lpTTNvTq,Finland
+76,x44DkH3N,Ykkosliiga,/football/finland/ykkosliiga/,I11BoLDE,4KmRAPPK,Finland
+76,C8gSia4b,Ykkonen,/football/finland/ykkonen/,jsQYXLbL,W8IYMbrj,Finland
+76,YZkqpeRp,Kakkonen Group A,/football/finland/kakkonen-group-a/,ETfKqarR,KO8GoDQK,Finland
+76,Wfi09bJi,Kakkonen Group B,/football/finland/kakkonen-group-b/,h4qstjsg,bF7KpXuR,Finland
+76,xhf87xl4,Kakkonen Group C,/football/finland/kakkonen-group-c/,hl1bvUB5,vy6kVjlr,Finland
+76,2P6P5GIG,Kakkonen Play Offs,/football/finland/kakkonen-play-offs/,Q1a6x8tI,tOEGrn6B,Finland
+76,W6oKjone,Suomen Cup,/football/finland/suomen-cup/,U3NW56A4,pGQUEKKS,Finland
+76,AicBh7Hr,Liiga Cup,/football/finland/liiga-cup/,MwKO7Suh,8p4EGtjG,Finland
+76,IRqljPG7,Ykkosliigacup,/football/finland/ykkosliigacup/,S2me2O9T,ARJsz9Xh,Finland
+76,zPkqES8E,Kansallinen Liiga Women,/football/finland/kansallinen-liiga-women/,nmURd2Xj,UBuE62hU,Finland
+76,AZmh8p1l,Kansallinen Ykkonen Women,/football/finland/kansallinen-ykkonen-women/,08aDEV4F,jXy1sG4j,Finland
+76,zD7wZ68A,Suomen Cup Women,/football/finland/suomen-cup-women/,AJzgRRSu,dbKv9dQu,Finland
+91,jXL7KZV6,NB I.,/football/hungary/nb-i/,MgCTUmzK,6aYykcXn,Hungary
+91,OpKFID0J,NB II.,/football/hungary/nb-ii/,hx3aPRcs,KIZK2ns8,Hungary
+91,lK9CEZwm,NB III - Northeast,/football/hungary/nb-iii-northeast/,6qRWJNRI,jiOTqp7b,Hungary
+91,v3FcCiwC,NB III - Northwest,/football/hungary/nb-iii-northwest/,MuJcx5sm,h6caqOyB,Hungary
+91,UFrQHnFi,NB III - Southeast,/football/hungary/nb-iii-southeast/,fwZMYMtC,Aczmp4M4,Hungary
+91,QPtcE4EG,NB III - Southwest,/football/hungary/nb-iii-southwest/,OxRmi4dt,nTd3rriH,Hungary
+91,EFGXqQB4,NB III - Promotion Play Offs,/football/hungary/nb-iii-promotion-play-offs/,G6lz88kR,jRAK9Usm,Hungary
+91,nuV5CrqT,Hungarian Cup,/football/hungary/hungarian-cup/,djPekrRh,rLyZtJ9P,Hungary
+91,dIGc8M6j,NB I Women,/football/hungary/nb-i-women/,dzsDmMe5,Mivy3Des,Hungary
+91,GrNhWPbc,Hungarian Cup Women,/football/hungary/hungarian-cup-women/,OnYTqveU,IZNULrQg,Hungary
+154,AgtpmqHN,Ekstraklasa,/football/poland/ekstraklasa/,rgKvyuf4,lrMHUHDc,Poland
+154,AsWv5414,Division 1,/football/poland/division-1/,ATgMQzHj,Qo6off6p,Poland
+154,run41M0T,Division 2,/football/poland/division-2/,QRxZpd8M,MBBlVncK,Poland
+154,fVmt7soA,III Liga - Group I,/football/poland/iii-liga-group-i/,Iil6Efx9,OWZW2KN5,Poland
+154,p8AI6LFM,III Liga - Group II,/football/poland/iii-liga-group-ii/,SAig7CUr,rs0FWPDe,Poland
+154,zwkcaw8d,III Liga - Group III,/football/poland/iii-liga-group-iii/,Qoa4RXLE,tSIIVqT1,Poland
+154,YcjEOt03,III Liga - Group IV,/football/poland/iii-liga-group-iv/,pzCx9P5m,nkL9fT52,Poland
+154,tOgMMKUF,Polish Cup,/football/poland/polish-cup/,dIwg73z0,r5LLTyT3,Poland
+154,M5FGqfxi,Super Cup,/football/poland/super-cup/,pbMTO9ql,llcCvIcG,Poland
+154,MJSZPX5K,Central Youth League,/football/poland/central-youth-league/,jFXEK2kg,zwhFOSkc,Poland
+154,Kb4SLBTs,Ekstraliga Women,/football/poland/ekstraliga-women/,GnpWItK5,MBZjM7WK,Poland
+154,212wHTS6,Polish Cup Women,/football/poland/polish-cup-women/,Y7YDXuZb,zwmDLSl8,Poland
+157,8SdcKFb4,Superliga,/football/romania/superliga/,MkSbUqAc,GILi6JC9,Romania
+157,b5JZJgTG,Liga 2,/football/romania/liga-2/,4rTcsNg3,bgStjEJ1,Romania
+157,xlj71oDk,Liga 3 - Seria 1,/football/romania/liga-3-seria-1/,roQ1M403,rVIbONYJ,Romania
+157,A1lFaPs2,Liga 3 - Seria 2,/football/romania/liga-3-seria-2/,zgr9KrVF,MLH2NslQ,Romania
+157,8MkWOSZ8,Liga 3 - Seria 3,/football/romania/liga-3-seria-3/,0QfQIMaS,tAfiK1ds,Romania
+157,GngvN64L,Liga 3 - Seria 4,/football/romania/liga-3-seria-4/,W8odD0Nk,K0geJLBm,Romania
+157,4xgJHpSr,Liga 3 - Seria 5,/football/romania/liga-3-seria-5/,Szu5Bvh2,ENhaIuRg,Romania
+157,UmnmHOde,Liga 3 - Seria 6,/football/romania/liga-3-seria-6/,OnjaZsp9,WrLBHat0,Romania
+157,QFudF2R7,Liga 3 - Seria 7,/football/romania/liga-3-seria-7/,rk60XLEL,E7AGGJe6,Romania
+157,MRjjw6JE,Liga 3 - Seria 8,/football/romania/liga-3-seria-8/,IkLvSaxq,hb9KFwBC,Romania
+157,Y78IOrYP,Liga 3 - Promotion Group,/football/romania/liga-3-promotion-group/,SrN9DV04,Q1tBh7mB,Romania
+157,QTKB56MR,Liga 3 - Promotion Play Offs,/football/romania/liga-3-promotion-play-offs/,0dDJz1Xg,2Lr5JTit,Romania
+157,MqGJiq3K,Romanian Cup,/football/romania/romanian-cup/,b75UHubl,dUzTIwSF,Romania
+157,0vJKaOE1,Super Cup,/football/romania/super-cup/,pIME75bq,U7w6AibD,Romania
+157,IRZ8Z0ef,Superliga Women,/football/romania/superliga-women/,6gpiVvDs,fqPJZY3c,Romania
+157,QiwHXvQ6,Romanian Cup Women,/football/romania/romanian-cup-women/,vi0GRdC6,0llBSJsO,Romania
+199,4Gc5YzOh,Premiership,/football/scotland/premiership/,r9r0HS9r,tGwiyvJ1,Scotland
+199,tnEUIkbf,Championship,/football/scotland/championship/,xtu5Z14n,6uz2cJBL,Scotland
+199,GQH9GFwC,League One,/football/scotland/league-one/,dtCpJFuT,l4P6dwRR,Scotland
+199,xt6IEg8O,League Two,/football/scotland/league-two/,Cx4Bycec,UsushcZr,Scotland
+199,AFg0OJGP,Highland League,/football/scotland/highland-league/,Gvz9Oydo,YmOaxiVF,Scotland
+199,AH4dzcgt,Lowland League,/football/scotland/lowland-league/,84cKZzQ9,rLOykBpM,Scotland
+199,G88jWhNH,Scottish Cup,/football/scotland/scottish-cup/,IiWfPNhD,O4voiHlk,Scotland
+199,80E1Iy9a,League Cup,/football/scotland/league-cup/,4lxMMct4,U3lM3y4e,Scotland
+199,UuOW3jq1,Challenge Cup,/football/scotland/challenge-cup/,2g5LJPx3,KKyYcus9,Scotland
+199,tnKLWEh5,SWPL 1 Women,/football/scotland/swpl-1-women/,2F6CZRVQ,M9HC7fAb,Scotland
+199,fDhZyE7b,Scottish Cup Women,/football/scotland/scottish-cup-women/,YmOLs58s,pl2G4YvB,Scotland
+199,zuYAj6ts,SWPL Cup Women,/football/scotland/swpl-cup-women/,r3LVbpZf,4Y6H6EP4,Scotland
+167,fHE8QBN5,Mozzart Bet Super Liga,/football/serbia/mozzart-bet-super-liga/,WCsa8Gn4,jVhkb1QE,Serbia
+167,fJ78deff,Mozzart Bet Prva Liga,/football/serbia/mozzart-bet-prva-liga/,d0CldIo1,YsBHc9Mb,Serbia
+167,zLgkCYw0,Srpska Liga - Belgrade,/football/serbia/srpska-liga-belgrade/,lKt0ew3b,nXGr5JMA,Serbia
+167,MJbqUgOt,Srpska Liga - Vojvodina,/football/serbia/srpska-liga-vojvodina/,vZxdnZPp,QBTL4ciN,Serbia
+167,lr058jwP,Srpska Liga - East,/football/serbia/srpska-liga-east/,MHdPie2N,Uuve4wxH,Serbia
+167,IohhSXhg,Srpska Liga - West,/football/serbia/srpska-liga-west/,zoljAxIi,42SP3H6T,Serbia
+167,0AetIGoQ,Mozzart Serbian Cup,/football/serbia/mozzart-serbian-cup/,YTVf7ZaJ,xSloasB8,Serbia
+171,YFaX83Gc,Nike liga,/football/slovakia/nike-liga/,6T2WcZiS,4KcaFam1,Slovakia
+171,2Zyjimmn,2. liga,/football/slovakia/2-liga/,OnpdZRIa,6ZvdGuYf,Slovakia
+171,SEszAYVN,3. Liga - Central,/football/slovakia/3-liga-central/,tIsmGE3C,AuTrQbHd,Slovakia
+171,b1VbkRHb,3. Liga - East,/football/slovakia/3-liga-east/,jFFyFcXp,htzUUDyD,Slovakia
+171,zXiFm5nB,3. Liga - West,/football/slovakia/3-liga-west/,nRQVx1Pi,WWYXTXjJ,Slovakia
+171,tMwDalKk,3. Liga - Promotion Play Offs,/football/slovakia/3-liga-promotion-play-offs/,6XbO9rwR,SMO0ny5b,Slovakia
+171,v9WFsNvo,4. liga - Bratislava,/football/slovakia/4-liga-bratislava/,IVEsYIOG,hKLBV0aT,Slovakia
+171,OMXA5QWi,4. liga - Central,/football/slovakia/4-liga-central/,vo3jWdgT,C86zJtpN,Slovakia
+171,ARmd3rWG,4. liga - East,/football/slovakia/4-liga-east/,27bPnIwA,tx0584Qm,Slovakia
+171,2iqwo0Oj,4. liga - West,/football/slovakia/4-liga-west/,IPHDwE0d,OpNH7Ouf,Slovakia
+171,2Pjk1awp,Slovak Cup,/football/slovakia/slovak-cup/,djqA3UT7,bsc3EJ27,Slovakia
+171,QqFPWq2U,1. Liga Women,/football/slovakia/1-liga-women/,86zEI6YI,6sXr3Kw7,Slovakia
+172,d4N8zS25,Prva liga,/football/slovenia/prva-liga/,UBHtOA4s,dQIMIN5n,Slovenia
+172,rVS3VhdD,2. SNL,/football/slovenia/2-snl/,bc6REXRQ,bVpINVLD,Slovenia
+172,pCCNxA3t,3. SNL - East,/football/slovenia/3-snl-east/,EFPF5TlD,v7Dz7uhb,Slovenia
+172,IPAVzlYh,3. SNL - West,/football/slovenia/3-snl-west/,pvtATWtK,hAHv6a74,Slovenia
+172,4UQGY5XH,Slovenian Cup,/football/slovenia/slovenian-cup/,tfqcMlZg,ATMQHsLh,Slovenia
+172,dAUZVER0,1. SZNL Women,/football/slovenia/1-sznl-women/,4jFQ8sv8,YTSh6vmB,Slovenia
+182,fJESWFSE,Super League,/football/switzerland/super-league/,AXcskDUh,KAjTCI1l,Switzerland
+182,xdtG3JBE,Challenge League,/football/switzerland/challenge-league/,pSmAL67l,jVMQJOHF,Switzerland
+182,dpgloBem,Promotion League,/football/switzerland/promotion-league/,lKpRHO6D,bkzIEcdo,Switzerland
+182,xOY3mKdL,1.Liga Classic Group 1,/football/switzerland/1-liga-classic-group-1/,CjRK67he,pO5ijKm0,Switzerland
+182,0QwqrbKr,1.Liga Classic Group 2,/football/switzerland/1-liga-classic-group-2/,p4PS4oN7,OE4ekv36,Switzerland
+182,Ywxitxke,1.Liga Classic Group 3,/football/switzerland/1-liga-classic-group-3/,4UVNSlFE,Iy4albIC,Switzerland
+182,xOSG6vzM,1.Liga Classic Play Offs,/football/switzerland/1-liga-classic-play-offs/,IksXcYOs,jcISulX2,Switzerland
+182,G27ss7PO,Swiss Cup,/football/switzerland/swiss-cup/,dr31YzcB,EXkXBxHf,Switzerland
+182,EFtn0tS8,1.Liga Classic Cup,/football/switzerland/1-liga-classic-cup/,2XNXDk0L,ru4atRLk,Switzerland
+182,rk9ZrTfC,Super League Women,/football/switzerland/super-league-women/,8EIHU1jJ,dzkFoSgt,Switzerland
+182,W2nad7Mi,Swiss Cup Women,/football/switzerland/swiss-cup-women/,EZNCfHBb,8IsTfklS,Switzerland
+57,W2eU6mTH,Primera Division,/football/costa-rica/primera-division/,WIEkYhg4,tpC1pUBH,Costa Rica
+57,SUlw5RcU,Liga de Ascenso,/football/costa-rica/liga-de-ascenso/,nyGlYqaL,riEiBZjN,Costa Rica
+57,MLyQO8Db,Copa Costa Rica,/football/costa-rica/copa-costa-rica/,2gZxPuM7,Sjmpb6RJ,Costa Rica
+57,8dGV8nQa,Super Cup,/football/costa-rica/super-cup/,A1sqprkb,8vb9SIPH,Costa Rica
+57,MXmQQLl3,Recopa de Costa Rica,/football/costa-rica/recopa-de-costa-rica/,dppyxJ5D,CCqsrUaI,Costa Rica
+59,jaUtMDOH,HNL,/football/croatia/hnl/,nFfMOClK,nqMxclRN,Croatia
+59,OCSlKigU,Prva NL,/football/croatia/prva-nl/,dSxCCntJ,OExXX8de,Croatia
+59,Ym78vevn,Druga NL,/football/croatia/druga-nl/,COUxVTem,nyDt9FxE,Croatia
+59,tEAGxZ8b,Croatian Cup,/football/croatia/croatian-cup/,bPp2RoeC,fDL2c8tU,Croatia
+59,S0u7Exve,Super Cup,/football/croatia/super-cup/,UeouDiR6,tINNchXL,Croatia
+59,h6L1zi8N,1. HNL Women,/football/croatia/1-hnl-women/,KIuyr7ug,OCOQMOAm,Croatia
+100,lv6akwBC,J1 League,/football/japan/j1-league/,6msfOkrp,pAq4eRQ9,Japan
+100,tC990TaT,J2 League,/football/japan/j2-league/,p4cK42ir,vXr8fotG,Japan
+100,2Xi4Bhkn,J2/J3 League,/football/japan/j2-j3-league/,YapgTGYb,MNroIbKs,Japan
+100,lnjoom8p,J3 League,/football/japan/j3-league/,OvEu20y1,MeGfjee5,Japan
+100,hEqImPLH,YBC Levain Cup,/football/japan/ybc-levain-cup/,I3vxVh77,KEUqwJAr,Japan
+100,Yait9j0i,Emperors Cup,/football/japan/emperors-cup/,GIEvPNrE,W6u0d7B3,Japan
+100,n3ep8AFc,Super Cup,/football/japan/super-cup/,ULIrOsbK,UNI2bLPl,Japan
+100,S2SVjxcM,WE League Women,/football/japan/we-league-women/,hEpzrWjD,8EN0QBMS,Japan
+100,Cz42oGKq,Nadeshiko League Women,/football/japan/nadeshiko-league-women/,ADFfkmbt,vinuwjSQ,Japan
+100,zqdKYgkd,WE League Cup Women,/football/japan/we-league-cup-women/,zJmRqqSH,0l2MGKWN,Japan
+100,2RX2mKbe,Empress's Cup Women,/football/japan/empress-s-cup-women/,U581LEst,lCkoZLIc,Japan
+212,zcmmNiat,Superliga,/football/kosovo/superliga/,zJodOyun,EDEvdFa7,Kosovo
+212,hlQAy7uR,Liga e Pare,/football/kosovo/liga-e-pare/,xUzWK8mm,hI5Dcne4,Kosovo
+212,rNjeLVTh,Kosovar Cup,/football/kosovo/kosovar-cup/,8G1LKgvB,MimrlIMs,Kosovo
+212,M781LWCS,Super Cup,/football/kosovo/super-cup/,MHYRQkx9,EiccD9m3,Kosovo
+115,xdtRi2UN,Liechtenstein Cup,/football/liechtenstein/liechtenstein-cup/,bPzXmvHb,WvY0GPa9,Liechtenstein
+117,2PKKNn9F,BGL Ligue,/football/luxembourg/bgl-ligue/,Ymj33sDD,KnNpcyal,Luxembourg
+117,vesyMQwS,Luxembourg Cup,/football/luxembourg/luxembourg-cup/,MTnULOSs,2RfYcHqr,Luxembourg
+128,xf3GsU0B,Liga MX,/football/mexico/liga-mx/,rLQEVQTq,bm2Vlsfl,Mexico
+128,b9iPu8VN,Liga de Expansion MX,/football/mexico/liga-de-expansion-mx/,0QWDr4Dk,SlhZpIaP,Mexico
+128,8nwHyngo,Liga Premier Serie A,/football/mexico/liga-premier-serie-a/,M3igGOJE,UiQWK8Vr,Mexico
+128,UuW9qbCi,Liga Premier Serie B,/football/mexico/liga-premier-serie-b/,r7kl7BnI,CGFyKSpk,Mexico
+128,CxeQswh1,Copa Mexico,/football/mexico/copa-mexico/,KhDA8F1j,2HXjr1nO,Mexico
+128,42SIX9sl,Copa por Mexico,/football/mexico/copa-por-mexico/,65Hi4ZMS,QgdMSBzt,Mexico
+128,lfEYZjMM,Campeón de Campeones,/football/mexico/campeon-de-campeones/,tIVqjuIl,UiPrARXq,Mexico
+128,tdmdwBmd,Liga MX U21,/football/mexico/liga-mx-u21/,pCNhNrfD,GdGmZTV6,Mexico
+128,hGckKKc2,Kings League - Mexico,/football/mexico/kings-league-mexico/,na883vXO,Oj3VXC3j,Mexico
+128,MiM9tOO0,Liga MX Women,/football/mexico/liga-mx-women/,SWWf4twg,S8Dr0wAf,Mexico
+133,CYnBtRH8,Prva Crnogorska Liga,/football/montenegro/prva-crnogorska-liga/,hbjLULCO,W00wmLO0,Montenegro
+133,neytt5nL,Druga Liga,/football/montenegro/druga-liga/,0UvvkPct,043sUkrq,Montenegro
+133,pjJ6ZrAr,Montenegrin Cup,/football/montenegro/montenegrin-cup/,8frnm3Sh,86GBzS0c,Montenegro
+139,dSXX7eTk,Eredivisie,/football/netherlands/eredivisie/,dWKtjvdd,Or1bBrWD,Netherlands
+139,UTJfFoH8,Eerste Divisie,/football/netherlands/eerste-divisie/,lfs1AamS,6Nl8nagD,Netherlands
+139,xfN2DPoL,Tweede Divisie,/football/netherlands/tweede-divisie/,63uNJxQr,b7mfunR9,Netherlands
+139,QqNs839r,Derde Divisie,/football/netherlands/derde-divisie/,KtEVFfP7,Cz9FVnQe,Netherlands
+139,pK88gL87,KNVB Beker,/football/netherlands/knvb-beker/,SdrHRX8D,4fGZN2oK,Netherlands
+139,40Ty7fZL,Johan Cruyff Shield,/football/netherlands/johan-cruyff-shield/,hpJN83hc,KluSTr9s,Netherlands
+139,ERWd0Gpm,Divisie 1 U21,/football/netherlands/divisie-1-u21/,8rYaV6F5,hUqUyPjg,Netherlands
+139,IoZVIgwo,Divisie 1 U19,/football/netherlands/divisie-1-u19/,naEHzyIM,Iq5Iwdi9,Netherlands
+139,AJF8eYqC,Eredivisie Women,/football/netherlands/eredivisie-women/,xnlbrpaB,ADZjR3us,Netherlands
+139,dvExeCEO,KNVB Beker Women,/football/netherlands/knvb-beker-women/,pCi6tOTN,KSE1XOBs,Netherlands
+139,OlpSbWt2,Eredivisie Cup Women,/football/netherlands/eredivisie-cup-women/,8pVHMMMd,8YgGm6HU,Netherlands
+139,Cz63DgUh,Super Cup Women,/football/netherlands/super-cup-women/,08qXb5qh,zeCZUYUB,Netherlands
+144,tleu6wLc,NIFL Premiership,/football/northern-ireland/nifl-premiership/,zkzLxiel,MgHlK2Na,Northern Ireland
+144,nobm4HkA,NIFL Championship,/football/northern-ireland/nifl-championship/,SQa4v4Wh,Cxq57r8g,Northern Ireland
+144,AiZTo9Zr,Irish Cup,/football/northern-ireland/irish-cup/,nuEyZa0U,p4VWSYDs,Northern Ireland
+144,dCXcom4e,Irish League Cup,/football/northern-ireland/irish-league-cup/,UN7fg3on,tzLcThTm,Northern Ireland
+144,t2IHjxb9,Charity Shield,/football/northern-ireland/charity-shield/,voDH7BMj,08BRZzm7,Northern Ireland
+144,ljx17UQE,Premiership Women,/football/northern-ireland/premiership-women/,2LNJkLpB,x6y1UsyP,Northern Ireland
+118,Kp1jknJl,1. MFL,/football/north-macedonia/1-mfl/,rNmH2bUG,86Ja30cq,North Macedonia
+118,t0kamQm1,2. MFL,/football/north-macedonia/2-mfl/,2P3I0xaT,4fNwNBm5,North Macedonia
+118,SKmTn4ID,Macedonian Cup,/football/north-macedonia/macedonian-cup/,ILeqJJEc,6BcMMext,North Macedonia
+118,x8NaZGC4,1. WFL Women,/football/north-macedonia/1-wfl-women/,rgC9nlPG,dvr8H1qL,North Macedonia
+145,MFrsBBTH,Eliteserien,/football/norway/eliteserien/,WhRleNrH,GOvB22xg,Norway
+145,rVWk9kbU,OBOS-ligaen,/football/norway/obos-ligaen/,rHbMeifc,UNGEKMx6,Norway
+145,G6VTUhqn,Division 2 - Group 1,/football/norway/division-2-group-1/,GEEoh9gM,8EFIJthC,Norway
+145,dGwxTWDb,Division 2 - Group 2,/football/norway/division-2-group-2/,nc5HnmHq,MahqU27I,Norway
+145,Yo0hRArB,Division 3 - Group 1,/football/norway/division-3-group-1/,8CgQpRod,8tpKCrF1,Norway
+145,88lNQlDN,Division 3 - Group 2,/football/norway/division-3-group-2/,Uam67Uw3,6R2NB2U7,Norway
+145,viugLSzo,Division 3 - Group 3,/football/norway/division-3-group-3/,QRtF588F,Cl5Ezn78,Norway
+145,O4tlqWSi,Division 3 - Group 4,/football/norway/division-3-group-4/,0WRfm0hl,ju4IZ5ME,Norway
+145,lGZHrAc4,Division 3 - Group 5,/football/norway/division-3-group-5/,dbL3ovN0,b93rzQyL,Norway
+145,l0iZtlSG,Division 3 - Group 6,/football/norway/division-3-group-6/,2eOBqIiD,x02nZqiR,Norway
+145,MDksuSdT,NM Cup,/football/norway/nm-cup/,n9P67LqK,fXf5mQ7t,Norway
+145,Icb2uMl1,Super Cup,/football/norway/super-cup/,dY8xmcRe,6FBf6ewJ,Norway
+145,A3VxcmsA,OBOS Supercup,/football/norway/obos-supercup/,QmvUExim,r1VcuZpl,Norway
+145,fsAmvJee,Nasjonal U19 CL,/football/norway/nasjonal-u19-cl/,t29RRFzg,hnqklTS4,Norway
+145,Kz2mnvmR,Toppserien Women,/football/norway/toppserien-women/,buD1JOYq,AovF1Mia,Norway
+145,8Q1StIAl,Division 1 Women,/football/norway/division-1-women/,bqLCwpQF,W0KYghoJ,Norway
+145,fo0dtdu1,Norway Cup Women,/football/norway/norway-cup-women/,0Cg0Uum2,AsPDZWYO,Norway
+149,vcj87Pic,LPF,/football/panama/lpf/,MXAqEBOq,jHCVwi4L,Panama
+151,QHlx73M9,Copa de Primera,/football/paraguay/copa-de-primera/,EBFnzgo3,S66R0t75,Paraguay
+151,pSKBbLEq,Division Intermedia,/football/paraguay/division-intermedia/,xd5ER1qf,GWd9tTGF,Paraguay
+151,29dMx1Gh,Copa Paraguay,/football/paraguay/copa-paraguay/,AyEJgIg3,tvOJRWN2,Paraguay
+151,lzdd8Zv0,Super Cup,/football/paraguay/super-cup/,8xZFClsH,UPDtw5pL,Paraguay
+152,CSDqKt6F,Liga 1,/football/peru/liga-1/,x0DPoNzQ,KrrdAMyI,Peru
+152,vgU97KzS,Liga 2,/football/peru/liga-2/,tn3TzcSO,4vsfFjhg,Peru
+152,Kl1OGNG0,Copa Bicentenario,/football/peru/copa-bicentenario/,UgX6i49p,fHWIubtn,Peru
+152,QyBBZxVN,Copa Peru,/football/peru/copa-peru/,42gM3gNR,C8tKFA7a,Peru
+152,tfKm8L8a,Supercopa Peruana,/football/peru/supercopa-peruana/,KbQySOF9,Sxy0lxfk,Peru
+152,AJBMHyre,Liga Women,/football/peru/liga-women/,I950HYuH,lQGQhLwq,Peru
+158,n7RPVIfJ,Premier League,/football/russia/premier-league/,0UC6tdRa,YacqHHdS,Russia
+158,dQxteMnQ,FNL,/football/russia/fnl/,CAqspVXi,jizXHcsM,Russia
+158,EsJCk0Am,FNL 2 - Division A Gold,/football/russia/fnl-2-division-a-gold/,p8a6tmXG,UmfIhP4H,Russia
+158,jDuTmvu0,FNL 2 - Division A Silver,/football/russia/fnl-2-division-a-silver/,61fuc8Hc,8vgMiqKN,Russia
+158,WYeVU9go,FNL 2 - Division B - Group 1,/football/russia/fnl-2-division-b-group-1/,EcIW9o13,jmQikwTd,Russia
+158,rRxhx0s4,FNL 2 - Division B - Group 2,/football/russia/fnl-2-division-b-group-2/,OA0McLh2,UwPelcr3,Russia
+158,GOhHYHtT,FNL 2 - Division B - Group 3,/football/russia/fnl-2-division-b-group-3/,Gl5PJ2FL,C2E0mHc9,Russia
+158,U9a3hadc,FNL 2 - Division B - Group 4,/football/russia/fnl-2-division-b-group-4/,Q78CCK7e,AmX3nyDF,Russia
+158,t2AljHeM,Youth League,/football/russia/youth-league/,lIw2btAa,hlzYDy5q,Russia
+158,0niLpeJq,Russian Cup,/football/russia/russian-cup/,Ii4yDuPh,WvZyDeKk,Russia
+158,jibLcFjb,FNL Cup,/football/russia/fnl-cup/,rkAVmxqS,d61aYe6c,Russia
+158,hEF5IKS6,Super Cup,/football/russia/super-cup/,lpSOrvr4,Q1YuCFZe,Russia
+158,SrpX4GAF,Supreme Division Women,/football/russia/supreme-division-women/,zVqLydh4,x6m69P3G,Russia
+158,QRDDGbcJ,Russia Cup Women,/football/russia/russia-cup-women/,0YxludsT,G4R4bGBP,Russia
+158,2grtaY2k,Super Cup Women,/football/russia/super-cup-women/,866Aje7c,GredgAjf,Russia
+165,0n9bj0yh,Saudi Professional League,/football/saudi-arabia/saudi-professional-league/,K4QfYeJ8,tUxUbLR2,Saudi Arabia
+165,M1c7lv64,Division 1,/football/saudi-arabia/division-1/,tKE3WZmL,8fhFSggG,Saudi Arabia
+165,rcMeRCcU,Division 2,/football/saudi-arabia/division-2/,K6uAOybS,GGLmkiK8,Saudi Arabia
+165,jVEqlIzH,King Cup,/football/saudi-arabia/king-cup/,GKTsRDBr,rFwwsVIf,Saudi Arabia
+165,nc8hnd5T,Super Cup,/football/saudi-arabia/super-cup/,CnNjPite,bgKO4YYS,Saudi Arabia
+165,8nfTzk56,Premier League Women,/football/saudi-arabia/premier-league-women/,Sn7KLFNp,4zUaWHWo,Saudi Arabia
+195,tEn9KxPE,Premier League,/football/ukraine/premier-league/,ldxRUZwe,Myjs3vp6,Ukraine
+195,6RAjkR9N,Persha Liga,/football/ukraine/persha-liga/,IuCL2xin,ShUKWHDG,Ukraine
+195,x6REdZW7,Druha Liga,/football/ukraine/druha-liga/,0YGWwvH8,vmlD9csB,Ukraine
+195,OllQCYo1,U19 League,/football/ukraine/u19-league/,0xcVleVQ,dYr5gCCr,Ukraine
+195,p4xZACGD,Ukrainian Cup,/football/ukraine/ukrainian-cup/,zwC9qZhl,EDRBCKEI,Ukraine
+195,joTpce2e,Championship Women,/football/ukraine/championship-women/,nsqawA5S,WGdJC0Oj,Ukraine
+201,dYEz5au9,Liga AUF Uruguaya,/football/uruguay/liga-auf-uruguaya/,fexyMpvQ,r9s6zO6P,Uruguay
+201,fVPc4wAL,Segunda Division,/football/uruguay/segunda-division/,6BDmr10n,dz4MxG6F,Uruguay
+201,jX13oNVN,Copa Uruguay,/football/uruguay/copa-uruguay/,jXh92xTa,ITp5xBAd,Uruguay
+201,UHrNsovI,Copa de la Liga AUF,/football/uruguay/copa-de-la-liga-auf/,YqY4fwum,UihCnW1B,Uruguay
+201,UVvxaHXr,Super Cup,/football/uruguay/super-cup/,zgYZth63,voTVGsj1,Uruguay
+200,tUfctlzI,MLS,/football/usa/mls/,bgQzSI5N,CQv5qrFt,USA
+200,QR7aRI3d,USL Championship,/football/usa/usl-championship/,Ykw3nDdd,OjCHtstG,USA
+200,EP7iPuKj,MLS Next Pro,/football/usa/mls-next-pro/,nHV8rvj4,W4f7hWh9,USA
+200,On9GjMe3,USL League One,/football/usa/usl-league-one/,lvwo7fJF,KhaoVzyl,USA
+200,4fAXrIIk,USL League Two,/football/usa/usl-league-two/,SbqP1Pnf,21McUfjf,USA
+200,tS1obWo2,NISA,/football/usa/nisa/,jHWbWOiQ,Imm0s3or,USA
+200,hE9iTvZq,US Open Cup,/football/usa/us-open-cup/,0xuelZRq,8dUVq2Un,USA
+200,Cx6v4nsm,USL Cup,/football/usa/usl-cup/,0zjEk3PG,z1qD87H7,USA
+200,UoVi1Csk,Carolina Challenge Cup,/football/usa/carolina-challenge-cup/,t0T7B9V1,698tGI9q,USA
+200,YTSKY0BM,NWSL Women,/football/usa/nwsl-women/,U9W7eHZ9,vBzAOR7R,USA
+200,nDHBYbRO,USL Super League Women,/football/usa/usl-super-league-women/,lK2BiXid,WnHhmdP7,USA
+200,63CfoNtA,NWSL Challenge Cup Women,/football/usa/nwsl-challenge-cup-women/,8fracw5c,Ew5oxysj,USA
+205,QyHHDLce,Liga FUTVE,/football/venezuela/liga-futve/,IssbRpyK,bVfjs0E5,Venezuela
+205,M3AQBaS7,Liga FUTVE 2,/football/venezuela/liga-futve-2/,MNmgItb6,Ec90yuCn,Venezuela
+205,OS5tPn4K,Copa Venezuela,/football/venezuela/copa-venezuela/,dnBCzJvm,OxBWBWBd,Venezuela
+205,2c7h0yQN,Super Cup,/football/venezuela/super-cup/,Y3zsviDE,OUe592bS,Venezuela
+62,jmWZzX2n,Chance Liga,/football/czech-republic/chance-liga/,tGIvI38l,hleea1wH,Czech Republic
+62,pnPrZAXb,ChNL,/football/czech-republic/chnl/,AwXWHfE5,AuYr0sOA,Czech Republic
+62,MHoaXl2B,3. CFL - Group A,/football/czech-republic/3-cfl-group-a/,WhLuGYrI,xfLfCZcn,Czech Republic
+62,dvzUWSWN,3. CFL - Group B,/football/czech-republic/3-cfl-group-b/,KYH6YFbn,WGKbBgDh,Czech Republic
+62,84hG3X9M,3. CFL - Play Offs,/football/czech-republic/3-cfl-play-offs/,23CFqfAC,Y3PIMGiM,Czech Republic
+62,SMQaR6fo,3. MSFL,/football/czech-republic/3-msfl/,hnGEWgTb,ppJOsZ7q,Czech Republic
+62,UTz26Tso,MOL Cup,/football/czech-republic/mol-cup/,OOJfh71d,bmNStgNk,Czech Republic
+62,E3EhZIDi,4. liga - Group A,/football/czech-republic/4-liga-group-a/,hWXVUXcB,GWJJY5V9,Czech Republic
+62,vF7MYdr4,4. liga - Group B,/football/czech-republic/4-liga-group-b/,0dyvTBSN,OYSN90J0,Czech Republic
+62,vaPwXzDG,4. liga - Group C,/football/czech-republic/4-liga-group-c/,pUCANkjo,Y5TaMKY6,Czech Republic
+62,CCNoVEsT,4. liga - Group D,/football/czech-republic/4-liga-group-d/,6H6jpgrh,CdS3LvlD,Czech Republic
+62,AiavRh5j,4. liga - Group E,/football/czech-republic/4-liga-group-e/,2q0arXC4,nw32pOQD,Czech Republic
+62,QcUXldcc,4. liga - Group F,/football/czech-republic/4-liga-group-f/,vFMFtBsH,OjHjDFrt,Czech Republic
+62,nDItmzS9,Jihocesky KP,/football/czech-republic/jihocesky-kp/,zsGOvkCT,lhrHDg25,Czech Republic
+62,xjuJnEdM,Jihomoravsky KP,/football/czech-republic/jihomoravsky-kp/,4d6fZSZj,CGxhsgHb,Czech Republic
+62,dzMkshKq,Karlovarsky KP,/football/czech-republic/karlovarsky-kp/,jwfmsugc,riyQBXWH,Czech Republic
+62,UmKcuWld,Kralovehradecky KP,/football/czech-republic/kralovehradecky-kp/,b3ceuJN9,biP8WfXu,Czech Republic
+62,G6Bg3Zt3,Liberecky KP,/football/czech-republic/liberecky-kp/,bmFCwchM,G4ZX9B1U,Czech Republic
+62,OWE11DBF,Moravskoslezsky KP,/football/czech-republic/moravskoslezsky-kp/,fJ0rYzGq,O8qZui1H,Czech Republic
+62,l4RIaitS,Olomoucky KP,/football/czech-republic/olomoucky-kp/,ELGqWEpd,fuSdtDW4,Czech Republic
+62,bsDAeV3k,Pardubicky KP,/football/czech-republic/pardubicky-kp/,ppXwfIx3,xrOCVEnn,Czech Republic
+62,ht6Jg9Y1,Plzensky KP,/football/czech-republic/plzensky-kp/,6aLnhd7F,WGXLCDHB,Czech Republic
+62,lhHDHCQ8,Prazsky prebor,/football/czech-republic/prazsky-prebor/,dQJzYRL0,W6A70FXh,Czech Republic
+62,MmU704As,Stredocesky KP,/football/czech-republic/stredocesky-kp/,UwIrW5jD,vyAX0Zna,Czech Republic
+62,YVeObruf,Ustecky KP,/football/czech-republic/ustecky-kp/,l4Owf9rK,xEzUAinO,Czech Republic
+62,fopXdM96,Vysocina KP,/football/czech-republic/vysocina-kp/,KnF9lm6s,bDYmrZ1h,Czech Republic
+62,Igxkp0vJ,Zlinsky KP,/football/czech-republic/zlinsky-kp/,pKRQnRzf,xlk9uXoB,Czech Republic
+62,xKrp83WP,U19 League,/football/czech-republic/u19-league/,WzQYp556,OORsaEb2,Czech Republic
+62,2gNJwSIM,Tipsport liga,/football/czech-republic/tipsport-liga/,bclzM5Vr,lIEDEbyN,Czech Republic
+62,vsY9bwOO,1. Liga Women,/football/czech-republic/1-liga-women/,nHcSfMJO,2TFFZoG3,Czech Republic
+62,pGnDGb85,2. Liga Women,/football/czech-republic/2-liga-women/,tOzJ7a3U,rJI88zeh,Czech Republic
+62,fL9NDKqf,Czech Cup Women,/football/czech-republic/czech-cup-women/,S6mGab35,YRnUGLMP,Czech Republic
+63,GtQIjw86,Superliga,/football/denmark/superliga/,hWZgTrN6,O6W7GIaF,Denmark
+63,O6TQlHxJ,1st Division,/football/denmark/1st-division/,nNphtM6C,xAzCFxFL,Denmark
+63,8KULCKUP,2nd Division,/football/denmark/2nd-division/,zNuDoHrh,8OLvlKz0,Denmark
+63,dlBD8bhm,3rd Division,/football/denmark/3rd-division/,lU3ptDCT,hfyXOnyB,Denmark
+63,dYSU6xNa,Landspokal Cup,/football/denmark/landspokal-cup/,EJoHtsO9,trs3Hbp9,Denmark
+63,2svXm8yo,A-Liga Women,/football/denmark/a-liga-women/,dtEkox0k,69z2Smeo,Denmark
+63,dnnXQXGM,B-Liga Women,/football/denmark/b-liga-women/,46HcqGU1,QuuS43Ik,Denmark
+63,Im9QBBTi,Danish Cup Women,/football/denmark/danish-cup-women/,OWNh7JM8,nqTBGxWH,Denmark
+61,M1LNWYP7,Cyprus League,/football/cyprus/cyprus-league/,xSsVKTPc,EmZxlqvh,Cyprus
+61,6FMIfxIE,Division 2,/football/cyprus/division-2/,EigQBPnp,CbXNfZvn,Cyprus
+61,WQFnfGnR,Cyprus Cup,/football/cyprus/cyprus-cup/,8bpRHFz3,Y5csTDRo,Cyprus
+61,pdOKhBR8,Super Cup,/football/cyprus/super-cup/,dvsxdsSg,8AYtm3gb,Cyprus
+66,tj6g47Vs,LDF,/football/dominican-republic/ldf/,voebvs0C,WOHJMDoA,Dominican Republic
+66,Asi2RZso,Copa de la LDF,/football/dominican-republic/copa-de-la-ldf/,YgPlcZk2,GxSljnw8,Dominican Republic
+55,UuKB9TSG,Ligue 1,/football/dr-congo/ligue-1/,UyBrKd6E,2qYslbGL,DR Congo
+68,trd6vSd3,Liga Pro,/football/ecuador/liga-pro/,x2nVXCWr,WWZFEdUR,Ecuador
+68,G4pyv6RF,Serie B,/football/ecuador/serie-b/,OMhljChR,GQXEtvRu,Ecuador
+68,SnCixpdS,Copa Ecuador,/football/ecuador/copa-ecuador/,nPcTpjGl,xW2jee62,Ecuador
+68,CKmOWNJk,Super Cup,/football/ecuador/super-cup/,hM0yqUp1,Myr0XzjJ,Ecuador
+69,8djnQlDc,Premier League,/football/egypt/premier-league/,rZZ01nd3,xbpjAGxq,Egypt
+69,GMgfOSsA,Division 2 A,/football/egypt/division-2-a/,x6GTPrlB,lt1UhcxR,Egypt
+69,tf6BM6CM,Egypt Cup,/football/egypt/egypt-cup/,phejwr34,OGamQz5m,Egypt
+69,jXi3Ipzp,League Cup,/football/egypt/league-cup/,IkBFZa2T,S2t1kkXS,Egypt
+69,pWpCGO4d,Super Cup,/football/egypt/super-cup/,z7inUwQj,bNZOACTk,Egypt
+70,ltJ0y1Mb,Primera Division,/football/el-salvador/primera-division/,bJsPKlOM,xxxpBZl2,El Salvador
+70,IJtdTElo,Copa Presidente,/football/el-salvador/copa-presidente/,Wrb4J4df,WOrWom1m,El Salvador
+73,zTutK1l2,Meistriliiga,/football/estonia/meistriliiga/,p05v5B7K,hvTioR1s,Estonia
+73,fgnyr5t9,Esiliiga,/football/estonia/esiliiga/,4pnBakVs,SGUUj41C,Estonia
+73,jcI1VLQ9,Esiliiga B,/football/estonia/esiliiga-b/,4bost9L6,fJkiv6wg,Estonia
+73,S6pqtqBL,Estonian Cup,/football/estonia/estonian-cup/,0IOSe7U6,jVtQk7gQ,Estonia
+73,U3ppxNYr,Super Cup,/football/estonia/super-cup/,8rSzfoaJ,08SHooHm,Estonia
+73,z1mhz13e,Meistriliiga Women,/football/estonia/meistriliiga-women/,fPFT1cIP,EyShWB5J,Estonia
+180,dGy1YvY7,Swazi MTN Premier League,/football/eswatini/swazi-mtn-premier-league/,8A4AiguC,WKm5jXvU,Eswatini
+74,6ZnHcrQE,Premier League,/football/ethiopia/premier-league/,4xbJkX9O,pjAXwP51,Ethiopia
+231,0z5kuzAm,Premier League,/football/faroe-islands/premier-league/,bJ1yAzet,dYEqqvyA,Faroe Islands
+231,x6R5wEv0,1. Deild,/football/faroe-islands/1-deild/,KYkp8EPh,YJeKMsSe,Faroe Islands
+231,z3xTxh9C,Faroe Islands Cup,/football/faroe-islands/faroe-islands-cup/,A7C06hf5,IkTatONq,Faroe Islands
+231,rTuyyWwP,Super Cup,/football/faroe-islands/super-cup/,6Z594WOH,pErwvM3s,Faroe Islands
+75,hSGiurjt,Premier League,/football/fiji/premier-league/,xMStnO8j,W2ZfJJh0,Fiji
+75,vmFLvMKh,Champion vs Champion,/football/fiji/champion-vs-champion/,dnZyAR0c,EiEQ2p8R,Fiji
+78,lAtFYebl,Championnat D1,/football/gabon/championnat-d1/,ddE1e2ph,lbBRRQLr,Gabon
+79,OWUqYZS0,GFA League,/football/gambia/gfa-league/,StdJiKqH,p0kyigAH,Gambia
+79,UTXiWDcD,FF Cup,/football/gambia/ff-cup/,Kvybpxxi,pjH6E5Dk,Gambia
+80,vo6umLPj,Crystalbet Erovnuli Liga,/football/georgia/crystalbet-erovnuli-liga/,OSo0I43t,ncI32KCk,Georgia
+80,zcHZAOHc,Crystalbet Erovnuli Liga 2,/football/georgia/crystalbet-erovnuli-liga-2/,dQ1PEM25,vuXiXdf2,Georgia
+80,AJ54A2nA,Liga 3,/football/georgia/liga-3/,xrI5fhHj,2s8qziNt,Georgia
+80,8Y9TVC5D,Georgian Cup,/football/georgia/georgian-cup/,YsTYlgHE,0EI4urwj,Georgia
+80,EeCKfdrE,Super Cup,/football/georgia/super-cup/,S4SxlDWK,ClM8v2hd,Georgia
+82,OKKvjeDs,Premier League,/football/ghana/premier-league/,6LxBrbM9,6BeXoaup,Ghana
+82,dIz4nDC6,Division One League,/football/ghana/division-one-league/,C4MaOTze,2wS2Wfks,Ghana
+82,hCpFZjsJ,Ghanaian Cup,/football/ghana/ghanaian-cup/,YJA8M757,25xikAlG,Ghana
+82,M9PYt8ln,Super Cup,/football/ghana/super-cup/,f74lqBcE,tjvHVlnS,Ghana
+82,Y1zKvQmB,Super Cup Div. One,/football/ghana/super-cup-div-one/,jN7yxTkl,OUB4WUWL,Ghana
+304,MiGFdoYi,National League,/football/gibraltar/national-league/,W6rv9RQP,xfCrIQ62,Gibraltar
+304,UHJNfP24,Gibraltar Cup,/football/gibraltar/gibraltar-cup/,GvKA35lm,4dY5PBF3,Gibraltar
+304,Op8HYELf,Super Cup,/football/gibraltar/super-cup/,v3UnViuk,EcqH4Foi,Gibraltar
+83,nkWI0kH7,Super League,/football/greece/super-league/,SrHbsrz1,d2pwJFHI,Greece
+83,6FxEOh9E,Super League 2,/football/greece/super-league-2/,GxPldskf,Kfjz5IjJ,Greece
+83,fL03kx2q,Football League,/football/greece/football-league/,lErE3Njn,zi44AFXa,Greece
+83,GtCO5ONa,Gamma Ethniki - Group 1,/football/greece/gamma-ethniki-group-1/,xtBedkrC,Q960PraK,Greece
+83,MwFW32hC,Gamma Ethniki - Group 2,/football/greece/gamma-ethniki-group-2/,6u3MEWct,MudRP2EQ,Greece
+83,rg3u2tNO,Gamma Ethniki - Group 3,/football/greece/gamma-ethniki-group-3/,vwJoBlc5,dnbIHvM6,Greece
+83,GU1JNq8t,Gamma Ethniki - Group 4,/football/greece/gamma-ethniki-group-4/,h0P176dU,t4iW5byD,Greece
+83,rNqhqoDT,Gamma Ethniki - Group 5,/football/greece/gamma-ethniki-group-5/,vsapM5BN,OlrgLMMs,Greece
+83,vgVNwPzi,Gamma Ethniki - Group 6,/football/greece/gamma-ethniki-group-6/,fwiBvmRi,IBscKtxl,Greece
+83,zwN91Swh,Gamma Ethniki - Promotion Play-offs,/football/greece/gamma-ethniki-promotion-play-offs/,40n82G6d,Q5PQE3kn,Greece
+83,69R8amtl,Gamma Ethniki - Relegation Play-offs,/football/greece/gamma-ethniki-relegation-play-offs/,YTw87xPt,GvqP64Tq,Greece
+83,fkWDHJ6U,Greek Cup,/football/greece/greek-cup/,UJTKCOVj,lxsVKym6,Greece
+83,UwfxXZbK,Super Cup,/football/greece/super-cup/,Cl4GHx4C,2uoZJe2C,Greece
+83,2LKWyNin,Division A Women,/football/greece/division-a-women/,AFd60TWj,2i9trvQh,Greece
+85,2ak71b9d,Liga Nacional,/football/guatemala/liga-nacional/,dddj6V0d,zgqsIZWO,Guatemala
+86,MPe2P113,Ligue 1,/football/guinea/ligue-1/,lz1gSCNF,OjlujDPN,Guinea
+89,fwfANuWF,Championnat National,/football/haiti/championnat-national/,b5f2QjhS,G4X8iVOl,Haiti
+90,SzKBHcOk,Liga Nacional,/football/honduras/liga-nacional/,jykrhTjR,YeUwzehC,Honduras
+222,lj8KFyg2,Premier League,/football/hong-kong/premier-league/,IDT5lKkg,2yYthCYB,Hong Kong
+222,jsy9MWUs,FA Cup,/football/hong-kong/fa-cup/,bymwqGJU,QoMJjjvA,Hong Kong
+222,CYDwFyte,League Cup,/football/hong-kong/league-cup/,foFNNCig,AJm2XIUO,Hong Kong
+222,Aak2ISbJ,Senior Shield,/football/hong-kong/senior-shield/,M3Nucqp4,j1D44hfi,Hong Kong
+93,dYGXUUVp,ISL,/football/india/isl/,lrk9x39U,rmioSrer,India
+93,hpSRhYNi,I-League,/football/india/i-league/,EPIRfpPb,OQyqbHWB,India
+93,S6GdhCh4,I-League 2,/football/india/i-league-2/,AJ6Jdc03,nVkfk4Yl,India
+93,hz2FBkKr,I-League 3,/football/india/i-league-3/,zPOcQPKr,Aw2jAKsf,India
+93,vkrDjjNG,Calcutta Premier Division,/football/india/calcutta-premier-division/,rHMrgFaS,dhxf0SPr,India
+93,OllFXLy2,Santosh Trophy,/football/india/santosh-trophy/,2Zx0aW6e,0lpxacIB,India
+93,6mXClqko,IFA Shield,/football/india/ifa-shield/,A5NpZppo,biEyrCwn,India
+93,M7OR42uH,Durand Cup,/football/india/durand-cup/,C4QJB1oq,Otj3kJ2U,India
+93,r9jDYg5N,Super Cup,/football/india/super-cup/,xC9LdbJM,0Ct8tIIO,India
+93,OMeRmLje,IWL Women,/football/india/iwl-women/,WpPwBHWg,pjsaNMip,India
+228,pxpznaL7,Super League,/football/indonesia/super-league/,QqIn9e16,8SwKOBWT,Indonesia
+228,feejB2DE,Championship,/football/indonesia/championship/,MLEo9n7N,d2aahzHp,Indonesia
+228,63bSbKXj,President Cup,/football/indonesia/president-cup/,KbuMNbpe,dvo7eZkg,Indonesia
+94,C0qm6ckf,Persian Gulf Pro League,/football/iran/persian-gulf-pro-league/,GIIFZO5M,2HzmcynI,Iran
+94,pEse4yK6,Azadegan League,/football/iran/azadegan-league/,n19oU2Tq,dQNDMiYb,Iran
+94,KzWP3FlJ,Hazfi Cup,/football/iran/hazfi-cup/,8GcfStbd,0nM3OEZa,Iran
+94,fwraIavT,Super Cup,/football/iran/super-cup/,zFJ8yIEf,IHuPaqDd,Iran
+95,fVBdkx5D,Stars League,/football/iraq/stars-league/,0KZ2F3Ej,ptQide1O,Iraq
+95,vqDiDucK,Iraq Cup,/football/iraq/iraq-cup/,Kptbw76c,vXW6opES,Iraq
+97,ETgaLMs1,Ligat ha'Al,/football/israel/ligat-ha-al/,QLw5lq1D,rHJ2vy1B,Israel
+97,Mgc7J0CD,Leumit League,/football/israel/leumit-league/,jXdn54of,QeijuHo5,Israel
+97,67b2s44K,Liga Alef North,/football/israel/liga-alef-north/,WGiYELaC,0bwHZ2T6,Israel
+97,fyufwrSs,Liga Alef South,/football/israel/liga-alef-south/,CQatDaUO,8SxszNrD,Israel
+97,f16B5DGo,Liga Alef - Promotion Play Offs,/football/israel/liga-alef-promotion-play-offs/,WS5kcopF,nJyoZtbJ,Israel
+97,MZYIlPCA,Liga Alef - Relegation,/football/israel/liga-alef-relegation/,2TFx2quR,f9QZsZ1J,Israel
+97,2eqlZwdJ,State Cup,/football/israel/state-cup/,WfbbX2Ft,WvJrjFVN,Israel
+97,8Egp4B04,Toto Cup,/football/israel/toto-cup/,YL9YjqNr,IaD8jZpU,Israel
+97,2ygl3VFA,Super Cup,/football/israel/super-cup/,zo6km1M7,OtkY4HMt,Israel
+58,6o5VFFC7,Ligue 1,/football/ivory-coast/ligue-1/,K00NJ7n9,pQS4X6DR,Ivory Coast
+99,hCCjiat0,Premier League,/football/jamaica/premier-league/,xlZ6VXkA,YF6FF3QK,Jamaica
+101,t0iyQKkE,Premier League,/football/jordan/premier-league/,WY2jsTfA,UeDxlmD8,Jordan
+101,vPvoMM85,Jordan Cup,/football/jordan/jordan-cup/,xdNMuOyP,dvL9zDJI,Jordan
+101,SKk5PbKQ,Shield Cup,/football/jordan/shield-cup/,8Iv6u7PM,EXhBTZwA,Jordan
+101,UTyXKISs,Super Cup,/football/jordan/super-cup/,S2Lxzomp,KWzLBhEq,Jordan
+102,2oYmnYDd,Premier League,/football/kazakhstan/premier-league/,OOcDTlkn,zNSwBuue,Kazakhstan
+102,GI7jAy63,First League,/football/kazakhstan/first-league/,KjiMRSJb,8CUwsgHP,Kazakhstan
+102,Cp1a8FzG,Kazakhstan Cup,/football/kazakhstan/kazakhstan-cup/,WYIxQ6lB,U9Yb3oVd,Kazakhstan
+102,04bBQMaS,League Cup,/football/kazakhstan/league-cup/,ERi4e3Qq,0QiGc6S6,Kazakhstan
+102,nknuj7Kl,Super Cup,/football/kazakhstan/super-cup/,8bEBtSYi,z9rzG5p3,Kazakhstan
+102,KGdtQNoo,League Women,/football/kazakhstan/league-women/,fXacGvUq,UZE9uz56,Kazakhstan
+103,MBzAkok1,Premier League,/football/kenya/premier-league/,tCCJv634,Y7QCbf53,Kenya
+103,EJhHmPJD,Super League,/football/kenya/super-league/,ngXryO2T,4nMDWeBq,Kenya
+103,00tAeywK,FKF Mozzart Bet Cup,/football/kenya/fkf-mozzart-bet-cup/,WQ8FV1Qj,x6wW5ZBa,Kenya
+103,ANqJkgVg,Super Cup,/football/kenya/super-cup/,bHIIiqmA,pGfyaA54,Kenya
+107,lb0rHet2,Premier League,/football/kuwait/premier-league/,Whm34HZa,b5CfO7jk,Kuwait
+107,bHBbtaY8,Division 1,/football/kuwait/division-1/,IX9v8jth,Cb04vFEb,Kuwait
+107,vRJ6vw3L,Crown Prince Cup,/football/kuwait/crown-prince-cup/,jo8n6UA4,fF4Gee50,Kuwait
+107,vFTpZGQr,Emir Cup,/football/kuwait/emir-cup/,E5nd48uH,vRn3UqXP,Kuwait
+107,A909WT4k,Super Cup,/football/kuwait/super-cup/,pdgjrOcf,EkbhGY5S,Kuwait
+108,StJZnYv1,Premier Liga,/football/kyrgyzstan/premier-liga/,ncuV6kS1,rFP3rF8i,Kyrgyzstan
+109,A7bpXV7O,Lao League,/football/laos/lao-league/,2R2ZcKac,MssKGkWd,Laos
+110,bqxn6uET,Virsliga,/football/latvia/virsliga/,UePIiDNj,rmWo9J97,Latvia
+110,nDIw2Jyi,Nakotnes liga,/football/latvia/nakotnes-liga/,E9QDFGFc,8fVnaoGk,Latvia
+110,fymFa4m7,Latvian Cup,/football/latvia/latvian-cup/,tbqywSnd,Qe432hiO,Latvia
+110,zPRn2RHq,Super Cup,/football/latvia/super-cup/,46Z8CojR,xtiYfJ53,Latvia
+110,6cRBP8v3,1. Liga Women,/football/latvia/1-liga-women/,0zhe53r1,nNinrmlC,Latvia
+110,rPvI3L3d,Super Cup Women,/football/latvia/super-cup-women/,dbgKIuj1,O6J04Tq9,Latvia
+111,GWbV4gPs,Premier League,/football/lebanon/premier-league/,C8bCNACr,QFKRRD8M,Lebanon
+111,69L74Xgf,Lebanese Cup,/football/lebanon/lebanese-cup/,zN12tW3E,YRxSHPHJ,Lebanon
+111,l2bLms3e,Federation Cup,/football/lebanon/federation-cup/,tOzF8wwD,zswceRKb,Lebanon
+111,27VPPGFM,Super Cup,/football/lebanon/super-cup/,CERj3Tol,0xXZ4G63,Lebanon
+112,WbNbAF1K,Premier League,/football/lesotho/premier-league/,x8qYSWlL,GzI4eOKf,Lesotho
+113,Q3VufpVb,LFA First Division,/football/liberia/lfa-first-division/,OEUYz1Xh,dfPeaR6k,Liberia
+113,j7R4mIWs,Orange Cup,/football/liberia/orange-cup/,f1cStvbJ,UZz63Kj2,Liberia
+114,jyrchOaB,Premier League,/football/libya/premier-league/,zcdkZv25,fX53MoL1,Libya
+116,fDMcntho,TOPLYGA,/football/lithuania/toplyga/,b9hlnIoB,lAYxY2n8,Lithuania
+116,jPXiAqph,I Lyga,/football/lithuania/i-lyga/,zknSvzvo,pp78XcbA,Lithuania
+116,pdAy2nlr,Lithuanian Cup,/football/lithuania/lithuanian-cup/,6ispojuG,S0XtXM1E,Lithuania
+116,xUmw81qH,Super Cup,/football/lithuania/super-cup/,vBIoaeVG,AVW4FqFF,Lithuania
+233,dYSbMe1f,Elite League,/football/macao/elite-league/,lKQSZmLl,zDicR3O8,Macao
+120,Myxqva5k,Super League,/football/malawi/super-league/,ERPLgU8k,8S59QGY1,Malawi
+120,rNsuT1oL,Castel Challenge Cup,/football/malawi/castel-challenge-cup/,2BSqSVCF,082pxclA,Malawi
+120,bRH1EedE,FAM Charity Shield,/football/malawi/fam-charity-shield/,lKKlcxA4,M9Xc5tMk,Malawi
+121,27HJLIgn,Super League,/football/malaysia/super-league/,Eq33QRh8,Oh9HQv4e,Malaysia
+121,AXKRJdOb,Malaysia Cup,/football/malaysia/malaysia-cup/,bJod5HMa,IwaiPfKg,Malaysia
+121,hdAWIGw5,FA Cup,/football/malaysia/fa-cup/,hto04yx6,OOyGIrif,Malaysia
+121,n7UCXdN0,MFL Challenge Cup,/football/malaysia/mfl-challenge-cup/,CKdWV4J7,jgsV5QP6,Malaysia
+121,z5XrIzgB,Piala Sumbangsih,/football/malaysia/piala-sumbangsih/,4Gl43eiC,lpo18dw7,Malaysia
+123,hCCfa65M,Premiere Division,/football/mali/premiere-division/,GE4XFu6k,UwM8frz1,Mali
+124,h6JY15KF,Premier League,/football/malta/premier-league/,QTswKyRH,ELVAW0WQ,Malta
+124,Uytk0qkS,Challenge League,/football/malta/challenge-league/,vTTNS9eC,tSWpiWmI,Malta
+124,SGHsdNCk,FA Trophy,/football/malta/fa-trophy/,0MOdqVug,zVW6XtHK,Malta
+124,phgPsXWi,Challenge Cup,/football/malta/challenge-cup/,8UKRrGk3,4floEICc,Malta
+124,Au7hOFhb,Super Cup,/football/malta/super-cup/,zTKHZeyt,2BCkdeEf,Malta
+255,K0n9HPF5,Trophee Gerard Janvion,/football/martinique/trophee-gerard-janvion/,tEZsaLLE,r5c4tOOE,Martinique
+126,prezQwt1,Ligue 1,/football/mauritania/ligue-1/,jigOMpOc,O0LCg2k7,Mauritania
+127,MFMWUCng,Super League,/football/mauritius/super-league/,WlwKJNvK,2y0WiZfB,Mauritius
+130,dhH4bq9s,Super Liga,/football/moldova/super-liga/,hfMsckyp,hA1Zm19f,Moldova
+130,U5LPqJ2F,Liga 1,/football/moldova/liga-1/,hfMsckyp,p0zwwxeL,Moldova
+130,nVwsbNwf,Moldovan Cup,/football/moldova/moldovan-cup/,jodoHASF,t2BgeFT0,Moldova
+132,WjaVn7BL,Premier League,/football/mongolia/premier-league/,GxwTgarH,E7tzij0J,Mongolia
+132,0WYUlL0B,Super Cup,/football/mongolia/super-cup/,MDKwWuIE,Yiq1eU9r,Mongolia
+134,4nKEHr4L,Botola Pro,/football/morocco/botola-pro/,UoYUwR9U,SWk4muv7,Morocco
+134,02N1A0de,Botola 2,/football/morocco/botola-2/,0vGbgnfB,xvpyvF04,Morocco
+134,W4SowlNH,Coupe du Trone,/football/morocco/coupe-du-trone/,KxChqHMf,bmoXveob,Morocco
+134,CpdpIGds,Excellence Cup,/football/morocco/excellence-cup/,dxvzzCD2,ARFrHtRL,Morocco
+135,YZgYjWL9,Mocambola,/football/mozambique/mocambola/,Mms616St,2RnvLNVB,Mozambique
+135,CYYYw3Y7,Super Cup,/football/mozambique/super-cup/,dh49uLpL,rNz0rMt1,Mozambique
+43,WKCyjjyG,National League,/football/myanmar/national-league/,UDpEapcg,CW8cUyfB,Myanmar
+43,4Cwx0peR,MNL League Cup,/football/myanmar/mnl-league-cup/,h87dYxwe,2NuZ7Ti5,Myanmar
+140,lpg5vzAD,National League,/football/new-zealand/national-league/,WzAfhqu9,U9JVmDk4,New Zealand
+140,KvZ4YJKs,Chatham Cup,/football/new-zealand/chatham-cup/,MTUyoICb,UJEX74nm,New Zealand
+140,GnPfoUPs,National League Women,/football/new-zealand/national-league-women/,MaqhypYH,UiC83C9c,New Zealand
+140,IabXjJtQ,Kate Sheppard Cup Women,/football/new-zealand/kate-sheppard-cup-women/,2VfZced4,hbay5rHa,New Zealand
+141,lYUODwyG,Liga Primera,/football/nicaragua/liga-primera/,WYvtrADO,6R9dHd1C,Nicaragua
+141,fXeetYBC,Copa Primera,/football/nicaragua/copa-primera/,WQWL89Nj,z7QTzxEE,Nicaragua
+142,A3aUttqI,Super Ligue,/football/niger/super-ligue/,hxa4vHSa,ATL2voyk,Niger
+143,2RTScvMM,NPFL,/football/nigeria/npfl/,CYJvtcxK,0YfyoJfj,Nigeria
+143,bcFbhIqp,NNL,/football/nigeria/nnl/,82xRYEUg,2FBptFyj,Nigeria
+143,dfQLidEd,Federation Cup,/football/nigeria/federation-cup/,6wpxgzMP,AoWj7MNJ,Nigeria
+146,GYeHfZO6,Professional League,/football/oman/professional-league/,8YziIa8K,pQ6ezCoj,Oman
+146,tpkofDgJ,Sultan Cup,/football/oman/sultan-cup/,0GXn9eV6,MoYV5dic,Oman
+146,8S5dfW1S,FA Cup,/football/oman/fa-cup/,QsPi262t,Ey4QFxce,Oman
+146,QyVPXR90,Super Cup,/football/oman/super-cup/,C8tJgRmn,zaL44fyG,Oman
+147,8vwY2xKA,Premier League,/football/pakistan/premier-league/,vgnESWUc,jHOaboMe,Pakistan
+215,4ArkifuD,West Bank League,/football/palestine/west-bank-league/,61IJ1ir5,KxGiT8T1,Palestine
+153,vFUdf0Us,PFL,/football/philippines/pfl/,hjO8bm5b,j35mcpjr,Philippines
+153,KdkedJft,Copa Paulino Alcantara,/football/philippines/copa-paulino-alcantara/,KYV0xXDO,lIEbYLig,Philippines
+156,WKjyxH6T,QSL,/football/qatar/qsl/,fezaExal,8nCtm7SE,Qatar
+156,tbxTXfUj,Division 2,/football/qatar/division-2/,jNT7CGT0,OYht9EFc,Qatar
+156,nVLyjiIf,QFA Cup,/football/qatar/qfa-cup/,YZAeSyeM,A7NANOIl,Qatar
+156,berOebMc,QSL Cup,/football/qatar/qsl-cup/,WbOkXcjK,fq7BFHaa,Qatar
+156,EsNKWgd6,Qatar Cup,/football/qatar/qatar-cup/,WEM4n33g,CtdqRGks,Qatar
+156,Amg9gGLM,Emir Cup,/football/qatar/emir-cup/,SERxQFrf,8I8KfFK6,Qatar
+56,EJb81lEO,Ligue 1,/football/republic-of-the-congo/ligue-1/,nwkV5fPH,CfLNhpWu,Republic of the Congo
+159,h4nqLFP8,Premier League,/football/rwanda/premier-league/,EkjaWQLr,2iKGhM4D,Rwanda
+159,AqEJ8ZGk,Peace Cup,/football/rwanda/peace-cup/,pv2G6UOj,U1FO8Sim,Rwanda
+159,2RkhFXHr,Super Cup,/football/rwanda/super-cup/,6548SrL7,jLFjXIlF,Rwanda
+163,bVI3YviB,Campionato Sammarinese,/football/san-marino/campionato-sammarinese/,CAFdLIZ2,zVucZzyE,San Marino
+163,WrHBWILN,Coppa Titano,/football/san-marino/coppa-titano/,bBVLHzZR,lYq1YfjK,San Marino
+163,ncSWyuac,Super Cup,/football/san-marino/super-cup/,MBTjMpWP,4IgcjnF6,San Marino
+166,rTgOtzTj,Ligue 1,/football/senegal/ligue-1/,p0LbNVA7,WSwyB5y2,Senegal
+168,notMfGyK,Premier League,/football/seychelles/premier-league/,QoaiHcqA,OxNsp9rk,Seychelles
+169,rHRikfas,Premier League,/football/sierra-leone/premier-league/,pdVQ8Fyp,6c67Dx4k,Sierra Leone
+170,pAuFWXKe,Premier League,/football/singapore/premier-league/,WbOfJl6d,CpsbdueR,Singapore
+170,2RKDoGrn,Premier League 2,/football/singapore/premier-league-2/,n9PpSJb3,IJPbajO6,Singapore
+170,bDqJViz2,Singapore Cup,/football/singapore/singapore-cup/,lKzorYrc,AuuJ6a3r,Singapore
+170,4znAfyD2,Singapore Community Shield,/football/singapore/singapore-community-shield/,pnUgtCD9,hl2V5JIl,Singapore
+174,zetRXzcl,National league,/football/somalia/national-league/,CrcJA39e,ncDHsctt,Somalia
+175,zH3Wlg4k,Betway Premiership,/football/south-africa/betway-premiership/,486iDsd4,WYFXQ1KH,South Africa
+175,dWiumXY1,Motsepe Foundation Championship,/football/south-africa/motsepe-foundation-championship/,4hO8BLQG,2HPP8Pog,South Africa
+175,6k3eCzR8,Diski Challenge,/football/south-africa/diski-challenge/,CIRG9aeT,Cv72CrW9,South Africa
+175,2Hd4AEeL,Nedbank Cup,/football/south-africa/nedbank-cup/,IwcTQtBc,WMffLgMb,South Africa
+175,02H54Wme,Carling Knockout,/football/south-africa/carling-knockout/,jyDhNbAM,t6G9wMZN,South Africa
+175,URQz9ujR,MTN 8 Cup,/football/south-africa/mtn-8-cup/,fJxzEltU,hrHTRs5B,South Africa
+106,v1KxQiuR,K League 1,/football/south-korea/k-league-1/,6FsHJk9l,0IDCJLlH,South Korea
+106,C873JV2l,K League 2,/football/south-korea/k-league-2/,UgCKwB0K,URqnleDq,South Korea
+106,pM5BH9X0,K3 League,/football/south-korea/k3-league/,Q9F7WShf,Q19CngBE,South Korea
+106,MZpt2Hc7,Korean Cup,/football/south-korea/korean-cup/,dGAwpVAi,v9CGIu4N,South Korea
+106,ltZaO49t,WK League Women,/football/south-korea/wk-league-women/,UuJloS7m,65KLBG9A,South Korea
+177,Od6mZJ84,Super League,/football/sri-lanka/super-league/,ImnRGUHf,UXM93mOS,Sri Lanka
+178,pAf9LrQE,Premier League,/football/sudan/premier-league/,lSh1i1Mk,C8GbNR5e,Sudan
+179,z3Gntl1C,SML,/football/suriname/sml/,8CNA9wpo,Wdt71zsU,Suriname
+183,Y1vrK3fE,Premier League,/football/syria/premier-league/,YF2FTqIb,Uw8jbFwc,Syria
+183,QJ5hFk0K,Syria Cup,/football/syria/syria-cup/,2L7AhLAf,z9AYNh4C,Syria
+218,b3UXHySr,Premier League,/football/taiwan/premier-league/,hKa4NUxm,OU7Tf60L,Taiwan
+218,hQTyHesk,Mulan Football League Women,/football/taiwan/mulan-football-league-women/,vybCL87a,IVqqVF0h,Taiwan
+184,f54pHdn1,Vysshaya Liga,/football/tajikistan/vysshaya-liga/,dAZmuJiA,Gt7K9kvK,Tajikistan
+184,Mi6xJIHl,Super Cup,/football/tajikistan/super-cup/,OrMtsuNc,QsnteKXg,Tajikistan
+185,bk1cOvfR,Ligi Kuu Bara,/football/tanzania/ligi-kuu-bara/,8nUFOc7T,GUjrKsoI,Tanzania
+185,CU2TO0PE,Federation Cup,/football/tanzania/federation-cup/,CKz7QJxH,MLJwzR4L,Tanzania
+185,ncAe3uYr,Community Shield,/football/tanzania/community-shield/,AR4m6boo,S0BVAQnJ,Tanzania
+186,WbXKOaK2,Thai League 1,/football/thailand/thai-league-1/,KnDY5T7C,hOlyBdW0,Thailand
+186,AkWONJZ8,Thai League 2,/football/thailand/thai-league-2/,xO7w5mNI,zirne0n9,Thailand
+186,dAQlOwkF,Thai FA Cup,/football/thailand/thai-fa-cup/,GE6s47xP,2wJajrWO,Thailand
+186,GfqcltJk,League Cup,/football/thailand/league-cup/,MemiHOgn,pvidjVHM,Thailand
+186,Of1bSwAm,Champions Cup,/football/thailand/champions-cup/,f34iwb90,MqT1UA3l,Thailand
+187,feopoTso,Championnat National,/football/togo/championnat-national/,bXOnbU2D,MmBUyqPu,Togo
+187,ljBXz8Th,Super Cup,/football/togo/super-cup/,YJSsAq05,4IIZvWRr,Togo
+189,pIahkkKN,TT Premier League,/football/trinidad-and-tobago/tt-premier-league/,25Vw0jY0,tljXuHBC,Trinidad and Tobago
+190,fgzlZk5U,Ligue Professionnelle 1,/football/tunisia/ligue-professionnelle-1/,6HCkYDZ1,lfv2BGo7,Tunisia
+190,bRtuyCzI,Ligue 2,/football/tunisia/ligue-2/,dOzfqvr3,xQMqjX42,Tunisia
+190,CKqThXKb,Tunisia Cup,/football/tunisia/tunisia-cup/,SbXj7YuR,dIBUOYl6,Tunisia
+190,48y9xHYK,Super Cup,/football/tunisia/super-cup/,YFh0AWPp,4f0fVEW4,Tunisia
+192,8zqUFrW1,Yokary Liga,/football/turkmenistan/yokary-liga/,fR2gItS6,pvGM3XVj,Turkmenistan
+194,U7jQEoN5,Premier League,/football/uganda/premier-league/,MF9L3fpK,EFmsCyda,Uganda
+194,hxU9G7hg,Big League,/football/uganda/big-league/,4I3QuihD,jsXqZrdE,Uganda
+194,ARs3C3MU,Uganda Cup,/football/uganda/uganda-cup/,IVC8dCxf,ABJIU4Sr,Uganda
+196,2cGPwJ4E,UAE League,/football/united-arab-emirates/uae-league/,GSgWHoHL,E7jH2KUa,United Arab Emirates
+196,hEPVPkhI,Division 1,/football/united-arab-emirates/division-1/,0fbgaC9j,URZfLkIH,United Arab Emirates
+196,ldZu4siM,League Cup,/football/united-arab-emirates/league-cup/,xfxqPSx2,6aJGVdsQ,United Arab Emirates
+196,bwBt2bbk,Presidents Cup,/football/united-arab-emirates/presidents-cup/,2PFJkdsI,OnKeiOGI,United Arab Emirates
+196,2gSqJKgB,Super Cup,/football/united-arab-emirates/super-cup/,WGerNuZ9,ULK83EjM,United Arab Emirates
+196,bgEMqfDb,Pro League U23,/football/united-arab-emirates/pro-league-u23/,ryJgQcTF,jXN6cUhJ,United Arab Emirates
+96,zXNjMd4m,Premier Division,/football/ireland/premier-division/,dKrDn2kS,naHiWdnt,Ireland
+96,40uTLzZa,Division 1,/football/ireland/division-1/,G4PqstDk,6LHwBDGU,Ireland
+96,0SYyKE3C,FAI Cup,/football/ireland/fai-cup/,8rUn3NZ8,QkGeVG1n,Ireland
+96,UZdQQ9uh,Super Cup,/football/ireland/super-cup/,hI8yqglf,fgTDOCfb,Ireland
+96,MsFXOmA4,National League Women,/football/ireland/national-league-women/,QV6qsXI6,08MIjuQG,Ireland
+96,fHU277KL,FAI Cup Women,/football/ireland/fai-cup-women/,4M58y9KB,8jPmJLZG,Ireland
+96,v9BtCtID,Super Cup Women,/football/ireland/super-cup-women/,fHD6eWbD,romth9Bl,Ireland
+202,pxCooWzg,Super League,/football/uzbekistan/super-league/,QeABV06b,zBkyuyRI,Uzbekistan
+202,joPbRlLO,Pro Liga,/football/uzbekistan/pro-liga/,8zMTG1i5,25ICmKzF,Uzbekistan
+202,WtxEgWti,Uzbekistan Cup,/football/uzbekistan/uzbekistan-cup/,tG4U74ej,009uJxSJ,Uzbekistan
+202,bHDHoh6t,Super Cup,/football/uzbekistan/super-cup/,WdH2XMyn,CzjTWGnn,Uzbekistan
+206,6kJqdMr2,V.League 1,/football/vietnam/v-league-1/,EZ1NV7Kc,CGXGiMTB,Vietnam
+206,4AK0LPz9,V.League 2,/football/vietnam/v-league-2/,EamS7eY7,659pm2N7,Vietnam
+206,CzO8J35L,Vietnamese Cup,/football/vietnam/vietnamese-cup/,vB69OGIl,0l4l9qpR,Vietnam
+206,YyLybrEk,Super Cup,/football/vietnam/super-cup/,UL0S74Sj,088OnfKI,Vietnam
+206,IXfR79Qd,National League Women,/football/vietnam/national-league-women/,zigFY09e,6mIpj91a,Vietnam
+206,dOgV6Tu3,Vietnamese Cup Women,/football/vietnam/vietnamese-cup-women/,UDhJXKO1,lduckTG5,Vietnam
+207,6k1fpcHa,Cymru Premier,/football/wales/cymru-premier/,jeNVO22k,6kmzF1qt,Wales
+207,ldm3r5Uq,Cymru South,/football/wales/cymru-south/,8K5k29jB,4psotQZt,Wales
+207,SAlHpJnm,Cymru North,/football/wales/cymru-north/,nFGzY6u3,OOrGe6RP,Wales
+207,ngbQsqad,FA Cup,/football/wales/fa-cup/,Gp9c0mLN,j7WKjtqI,Wales
+207,IHEK5ni3,League Cup,/football/wales/league-cup/,0IpUfRro,xAcLgIDU,Wales
+207,vX2T3QLF,Premier Women,/football/wales/premier-women/,2BGmFnzH,YLKJYRqt,Wales
+208,Wx6sVOMU,Division 1,/football/yemen/division-1/,G4F27ZJj,zyBbdg89,Yemen
+209,Wv3ojuPP,Super League,/football/zambia/super-league/,21FuA3md,QcPRi4on,Zambia
+209,rHILUc0d,Absa Cup,/football/zambia/absa-cup/,fJOL8Ns3,dSBJYVTs,Zambia
+209,h6CSXZYi,Super Cup,/football/zambia/super-cup/,48ztIM7T,AJqvINE8,Zambia
+210,67ADUJXg,Premier Soccer League,/football/zimbabwe/premier-soccer-league/,UqyebQ3j,OErJ0IVR,Zimbabwe
+210,0bzPB6Lb,Castle Challenge Cup,/football/zimbabwe/castle-challenge-cup/,C4zhHFj3,2JFsbbdE,Zimbabwe
+210,YXuszUM9,Chibuku Super Cup,/football/zimbabwe/chibuku-super-cup/,EH8i7jmK,K0mgW01K,Zimbabwe
