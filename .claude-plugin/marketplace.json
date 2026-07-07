@@ -1,0 +1,13 @@
+{
+  "name": "bruno-marketplace",
+  "owner": {
+    "name": "Bruno"
+  },
+  "plugins": [
+    {
+      "name": "bruno-skills",
+      "source": "./",
+      "description": "Coleção de 36 skills pessoais do Bruno (design/frontend, documentos, vercel, remotion, browser automation, marketing, superpowers)."
+    }
+  ]
+}
