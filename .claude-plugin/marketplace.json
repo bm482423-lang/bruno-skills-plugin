@@ -6,6 +6,7 @@
   "plugins": [
     {
       "name": "bruno-skills",
+      "displayName": "Bruno Skills",
       "source": "./",
       "description": "Coleção de 55 skills pessoais do Bruno (design/frontend, documentos, vercel, remotion, browser automation, marketing, crypto/finanças, CTF, superpowers)."
     }
